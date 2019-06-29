@@ -1,6 +1,7 @@
 # NSI-premiere
 
 Projects
+--------------------------------------------------------------
 
 Projet 1 : reprise du programme min max avec expression explicite du min-max sur 3 valeur (+recursivité)
 
@@ -10,5 +11,7 @@ Projet 3 : création d'un google home via raspberry pi (micro et enceinte : ques
 
 
 Algorithm :
+---------------------------------------------------------------
 
 1/ Greddy
+2/ Dijkstra
