@@ -3,7 +3,7 @@
 Projects
 --------------------------------------------------------------
 
-Projet 1 : reprise du programme min max avec expression explicite du min-max sur 3 valeur (+recursivité)
+Projet 1 : reprise du programme min max avec expression explicite du min-max sur 3 valeurs (+recursivité)
 
 Projet 2 : allumage led (direct, via GPIO, via server web)
 
@@ -18,3 +18,6 @@ Algorithm :
 2/ Dijkstra
 
 3/ TAF : programmer le Knapsack Problem (problème du sac à doc / panier du voleur) - dynamic processing
+
+4/ TAF : Quicksort and QuickSort improved
+https://yourbasic.org/golang/quicksort-optimizations/
