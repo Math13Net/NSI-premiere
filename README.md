@@ -36,6 +36,6 @@ https://yourbasic.org/golang/quicksort-optimizations/
 
 ex1 : classement taille et couleur des oranges
 
-ex2 : goût des utilisatuers Netflix (5 critères par exemple)
+ex2 : goût des utilisateurs Netflix (5 critères par exemple)
 
 
