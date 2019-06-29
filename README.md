@@ -32,10 +32,11 @@ ex 2 : plus grand nombre de caractères commun
 
 https://yourbasic.org/golang/quicksort-optimizations/
 
-5/ TAF : K-Nearest Neighbor - classification and regression on 2 ex
+5/ TAF : K-Nearest Neighbor - classification and regression
 
 ex1 : taille et couleur des oranges
 
 ex2 : goût des utilisateurs Netflix (5 critères par exemple)
 
+ex3 : vente croissant(nbre), climat(beau/mauvais), jour semaine(sem/we)
 
