@@ -1,4 +1,4 @@
-""" Greedy Algorithm from Algorithms in Motion - Beau Carnes
+""" Greedy Algorithm from Algortims in Motion - Beau Carnes
 Choose the minimum number of radio station to cover the hole State
 which is devided in small states
 
@@ -17,11 +17,12 @@ stations["k_five"] = set(["ca","az"])
 
 final_stations = set()
 
-# while applies to a set (possible for list - dict - set / equivalent test is : while not len(states_needed) == 0 or while states_needed not None)
+# while applies to a set (possible for list - dict - set / equivalent test is : while len(states_needed) > 0 or while states_needed not None)
 while states_needed:
   # choose a radio, not yet choosen that covers maximum states not yet covered
   best_station = None
   states_covered = set()
+  # gives a name to the choosen element in the for while for looks in the stations.itmes() this element (named station now)
   for station, states_for_station in stations.items():
     # idea : set interserction
     # remember : | union , & intersection , - difference
