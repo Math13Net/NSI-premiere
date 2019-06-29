@@ -1,4 +1,4 @@
-""" Greedy Algorithm from Algortims in Motion - Beau Carnes
+""" Greedy Algorithm from Algorithms in Motion - Beau Carnes
 Choose the minimum number of radio station to cover the hole State
 which is devided in small states
 
