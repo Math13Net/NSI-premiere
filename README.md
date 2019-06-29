@@ -15,7 +15,7 @@ Projet 2 : allumage led (direct, via GPIO, via server web)
 Projet 3 : création d'un google home via raspberry pi (micro et enceinte : question puis réponse)
 
 
-Algorithm :
+Algorithms :
 ---------------------------------------------------------------
 
 1/ Greddy
