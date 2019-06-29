@@ -1,0 +1,35 @@
+""" Greedy Algorithm from Algortims in Motion - Beau Carnes
+Choose the minimum number of radio station to cover the hole State
+which is devided in small states
+
+Careful : not always the best choice - O(n^2) - Several possible answers
+
+"""
+
+states_needed = set(["mt","wa","or","id","nv","ut","ca","az"])
+
+stations = {}
+stations["k_one"] = set(["id","nv","ut"])
+stations["k_two"] = set(["wa","id","mt"])
+stations["k_three"] = set(["or","nv","ca"])
+stations["k_four"] = set(["nv","ut"])
+stations["k_five"] = set(["ca","az"])
+
+final_stations = set()
+
+while states_needed:
+  # choose a radio, no yet choosen that covers maximum states not yet covered
+  best_station = None
+  states_covered = set()
+  for station, states_for_station in stations.items():
+    # idea : set interserction
+    # remember : | union , & intersection , - difference
+    covered = states_needed & states_for_station
+    if len(covered) > len(states_covered):
+      best_station = station
+      states_covered = covered
+
+  states_needed -= states_covered
+  final_stations.add(best_station)
+
+print(final_stations)
