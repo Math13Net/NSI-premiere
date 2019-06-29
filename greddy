@@ -17,8 +17,9 @@ stations["k_five"] = set(["ca","az"])
 
 final_stations = set()
 
+# while applies to a set (possible for list - dict - set / equivalent test is : while not len(states_needed) == 0 or while states_needed not None)
 while states_needed:
-  # choose a radio, no yet choosen that covers maximum states not yet covered
+  # choose a radio, not yet choosen that covers maximum states not yet covered
   best_station = None
   states_covered = set()
   for station, states_for_station in stations.items():
