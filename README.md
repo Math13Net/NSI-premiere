@@ -17,4 +17,4 @@ Algorithm :
 
 2/ Dijkstra
 
-3/ TAF : programmer le Knapsack Problem (problème du sac à doc / panier du voleur)
+3/ TAF : programmer le Knapsack Problem (problème du sac à doc / panier du voleur) - dynamic processing
