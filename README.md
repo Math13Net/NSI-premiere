@@ -31,3 +31,11 @@ ex 2 : plus grand nombre de caractères commun
 4/ TAF : Quicksort and QuickSort improved
 
 https://yourbasic.org/golang/quicksort-optimizations/
+
+5/ TAF : K-Nearest Neighbor
+
+ex1 : classement taille et couleur des oranges
+
+ex2 : goût des utilisatuers Netflix (5 critères par exemple)
+
+
