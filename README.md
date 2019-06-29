@@ -16,3 +16,5 @@ Algorithm :
 1/ Greddy
 
 2/ Dijkstra
+
+3/ TAF : programmer le Knapsack Problem (problème du sac à doc / panier du voleur)
