@@ -14,7 +14,7 @@ Projet 2 : allumage led (direct, via GPIO, via server web)
 
 Projet 3 : création d'un google home via raspberry pi (micro et enceinte : question puis réponse)
 
-Projet 4 : sous Cisco packet tracer, creation 2 réseaux avec servers DNS , DHCH et HTTP
+Projet 4 : sous CiscoPacketTracer, creation 2 réseaux avec servers DNS , DHCH et HTTP
 
 
 Algorithms :
