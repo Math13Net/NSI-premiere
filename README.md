@@ -43,11 +43,11 @@ ex 1 : plus grande chaîne de caractère commune (mesure de levensthein : https:
 
 ex 2 : plus grand nombre de caractères commun
 
-4/ TAF : Quicksort and QuickSort improved
+4/ Quicksort and QuickSort improved
 
 https://yourbasic.org/golang/quicksort-optimizations/
 
-5/ TAF : K-Nearest Neighbor - classification and regression
+5/ K-Nearest Neighbor - classification and regression
 
 ex1 : taille et couleur des oranges
 
