@@ -5,6 +5,12 @@ Magic Problem Solver Algorithm ;))
 https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/
 
 
+Sommaire NSI Première
+----------------------------------------------------------------
+progression pour l'année 2019-2020
+
+
+
 Projects
 --------------------------------------------------------------
 
