@@ -5,6 +5,12 @@ Magic Problem Solver Algorithm ;))
 https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/
 
 
+
+Programme officiel BO NSI Première
+----------------------------------------------------------------
+https://github.com/Math13Net/NSI-premiere/blob/master/programme-nsi-premiere.pdf
+
+
 Sommaire NSI Première
 ----------------------------------------------------------------
 progression pour l'année 2019-2020
