@@ -11,12 +11,6 @@ Spécification et tests - Modules et bibliothèques
 1.2 Web et programmatiom
 Le langage HTML - Le langage CSS - Mon premier site Web
 
-Mini projet 1 :
-- créer un programme en python
-(qq idées : https://projects.raspberrypi.org/en/projects?software%5B%5D=python )
-- créer un site web (gratuitement) pour une association ou un club du Sarladais
-(qq idées : https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript )
-
 Chapitre 2 : Données
 
 2.2 Types simples
@@ -27,10 +21,19 @@ Nombres réels - Textes
 N-uplets - Listes - Tableaux et matrices
 Dictionnaires - Traitement de donnéees en tables
 
-Mini projet 2 :
-- créer un site web
-- créer un site web
-- créer un site web
+Mini projet trimestre 1 :
+- créer un programme en python
+(qq idées : https://projects.raspberrypi.org/en/projects?software%5B%5D=python )
+- créer un site web (gratuitement) pour une association - un club - une passion ...
+(qq idées : https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript )
+- expliquer simplement 0.1 + 0.2 != 0.3 (support ppt beamer ou video + python ...)
+- créer une site internet expliquant le fomctionnement des filtres sur une image avec quelques exemples (web + python)
+- créer un convertiseur permettant de changer de base de numérotation
+- ...
+constituer un groupe de 3 ou 4 élèves - faire son choix à la fin de la séance 1 - faire valider par le professeur
+pemser à planifier votre projet et à faire des check-points réguliers
+
+------------------------------------------------------------------------------------------------
 
 Chapitre 3 : Machines et réseaux
 
@@ -41,6 +44,21 @@ Architecture - Systèmes d’exploitation - Communication - Entrées et sorties
 Repères - Hypertexte - Interactions avec HTML et JavaScript
 Requêtes HTTP - Formulaires dans une page Web
 
+
+Mini projet trimestre 2 :
+- créer un programme en python
+(qq idées : https://projects.raspberrypi.org/en/projects?software%5B%5D=python )
+- créer un site web (gratuitement) pour une association - un club - une passion ...
+(qq idées : https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript )
+- expliquer simplement 0.1 + 0.2 != 0.3 (support ppt beamer ou video + python ...)
+- créer une site internet expliquant le fomctionnement des filtres sur une image avec quelques exemples (web + python)
+- créer un convertiseur permettant de changer de base de numérotation
+- ...
+constituer un groupe de 3 ou 4 élèves - faire son choix à la fin de la séance 1 - faire valider par le professeur
+pemser à planifier votre projet et à faire des check-points réguliers
+
+-----------------------------------------------------------------------------------------------
+
 Chapitre 4 : Algorithmes
 
 4.1 Algorithmes 1
@@ -50,5 +68,14 @@ Parcours séquentiel - Recherche dichotomique
 4.2 Algorithmes 2
 Algorithmes de tri - Algorithme des plus proches voisins - Algorithmes gloutons
 
-PROJETS EN PARRALLELES :
-- liste
+Mini projet trimestre 3 :
+- créer un programme en python
+(qq idées : https://projects.raspberrypi.org/en/projects?software%5B%5D=python )
+- créer un site web (gratuitement) pour une association - un club - une passion ...
+(qq idées : https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript )
+- expliquer simplement 0.1 + 0.2 != 0.3 (support ppt beamer ou video + python ...)
+- créer une site internet expliquant le fomctionnement des filtres sur une image avec quelques exemples (web + python)
+- créer un convertiseur permettant de changer de base de numérotation
+- ...
+constituer un groupe de 3 ou 4 élèves - faire son choix à la fin de la séance 1 - faire valider par le professeur
+pemser à planifier votre projet et à faire des check-points réguliers
