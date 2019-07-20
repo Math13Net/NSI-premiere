@@ -19,20 +19,20 @@ Nombres réels - Textes
 
 1.5 Donées - Types construits
 N-uplets - Listes - Tableaux et matrices
-Dictionnaires - Traitement de donnéees en tables
+Dictionnaires - Traitement de données en tables
 
 Mini projet trimestre 1 :
 - créer un programme en python
 (qq idées : https://projects.raspberrypi.org/en/projects?software%5B%5D=python )
 - créer un site web (gratuitement) pour une association - un club - une passion ...
 (qq idées : https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript )
-- expliquer simplement 0.1 + 0.2 != 0.3 (support ppt beamer ou video + python ...)
+- expliquer simplement 0.1 + 0.2 != 0.3 puis rédiger un texte scientifique associé (ppt ou latex)
 - créer une site internet expliquant le fomctionnement des filtres sur une image avec quelques exemples (web + python)
 - créer un convertiseur permettant de changer de base de numérotation
 - simulation fonctionnelle d'une file d'attente (traiter différents cas ou exploiter en profomdeur une situation réelle)
 - ...
-constituer un groupe de 3 ou 4 élèves - faire son choix à la fin de la séance 1 - faire valider par le professeur
-penser à planifier votre projet et à faire des check-points réguliers
+constituer un groupe de 3 ou 4 élèves - faire son choix à la fin de la séance 1
+faire valider par le professeur - créer votre projet sur Trello pour gérer le projet (inviter votre professeur)
 intéressés par un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
 
 ------------------------------------------------------------------------------------------------
@@ -57,8 +57,8 @@ Mini projet trimestre 2 :
 - créer une site internet expliquant le fomctionnement des filtres sur une image avec quelques exemples (web + python)
 - créer un convertiseur permettant de changer de base de numérotation
 - ...
-constituer un groupe de 3 ou 4 élèves - faire son choix à la fin de la séance 1 - faire valider par le professeur
-penser à planifier votre projet et à faire des check-points réguliers
+constituer un groupe de 3 ou 4 élèves - faire son choix à la fin de la séance 1
+faire valider par le professeur - créer votre projet sur Trello pour gérer le projet (inviter votre professeur)
 intéressés par un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
 
 -----------------------------------------------------------------------------------------------
@@ -81,6 +81,6 @@ Mini projet trimestre 3 :
 - créer une site internet expliquant le fomctionnement des filtres sur une image avec quelques exemples (web + python)
 - créer un convertiseur permettant de changer de base de numérotation
 - ...
-constituer un groupe de 3 ou 4 élèves - faire son choix à la fin de la séance 1 - faire valider par le professeur
-penser à planifier votre projet et à faire des check-points réguliers
+constituer un groupe de 3 ou 4 élèves - faire son choix à la fin de la séance 1
+faire valider par le professeur - créer votre projet sur Trello pour gérer le projet (inviter votre professeur)
 intéressés par un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
