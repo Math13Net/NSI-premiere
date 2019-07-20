@@ -11,6 +11,9 @@ Spécification et tests - Modules et bibliothèques
 1.2 Web et programmatiom
 Le langage HTML - Le langage CSS - Mon premier site Web
 
+1.3 Latex
+Écriture de documents sciemtifiques sous Latex (introduction)
+
 Chapitre 2 : Données
 
 2.2 Types simples
@@ -29,6 +32,7 @@ Mini projet trimestre 1 :
 - expliquer simplement 0.1 + 0.2 != 0.3 (support ppt beamer ou video + python ...)
 - créer une site internet expliquant le fomctionnement des filtres sur une image avec quelques exemples (web + python)
 - créer un convertiseur permettant de changer de base de numérotation
+- simulation fonctionnelle d'une file d'attente (traiter différents cas ou exploiter en profomdeur une situation réelle)
 - ...
 constituer un groupe de 3 ou 4 élèves - faire son choix à la fin de la séance 1 - faire valider par le professeur
 pemser à planifier votre projet et à faire des check-points réguliers
