@@ -4,7 +4,6 @@ Sommaire Première NSI
 Chapitre 1 : PROGRAMMATION ET LANGAGES
 
 1.1 Programmation en Python 3
-
 Elements de base - Instructions conditionnelles et boucles - Fonctions
 Spécification et tests - Modules et bibliothèques
 
@@ -14,13 +13,11 @@ Le langage HTML - Le langage CSS - Mon premier site Web
 1.3 Latex
 Écriture de documents sciemtifiques sous Latex (introduction)
 
-Chapitre 2 : Données
-
-2.2 Types simples
+1.4 Données - Types simples
 Représentation numérique de l’information - Nombres entiers - Booléeens
 Nombres réels - Textes
 
-2.3 Types construits
+1.5 Donées - Types construits
 N-uplets - Listes - Tableaux et matrices
 Dictionnaires - Traitement de donnéees en tables
 
@@ -39,12 +36,12 @@ pemser à planifier votre projet et à faire des check-points réguliers
 
 ------------------------------------------------------------------------------------------------
 
-Chapitre 3 : Machines et réseaux
+Chapitre 2 : Machines et réseaux
 
-3.1 Machines
+2.1 Machines
 Architecture - Systèmes d’exploitation - Communication - Entrées et sorties
 
-3.2 Interactions sur le Web
+2.2 Interactions sur le Web
 Repères - Hypertexte - Interactions avec HTML et JavaScript
 Requêtes HTTP - Formulaires dans une page Web
 
@@ -63,13 +60,13 @@ pemser à planifier votre projet et à faire des check-points réguliers
 
 -----------------------------------------------------------------------------------------------
 
-Chapitre 4 : Algorithmes
+Chapitre 3 : Algorithmes
 
-4.1 Algorithmes 1
+3.1 Algorithmes 1
 Introduction - Les outils - Validité et coût
 Parcours séquentiel - Recherche dichotomique
 
-4.2 Algorithmes 2
+3.2 Algorithmes 2
 Algorithmes de tri - Algorithme des plus proches voisins - Algorithmes gloutons
 
 Mini projet trimestre 3 :
