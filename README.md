@@ -105,7 +105,7 @@ Dictionnaires - Traitement de données en tables
 - créer un site web (gratuitement) pour une association - un club - une passion ...
 (qq idées : [FUN web](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript))
 - expliquer simplement 0.1 + 0.2 != 0.3 puis rédiger un texte scientifique associé (ppt ou latex)
-- créer une site internet expliquant le fomctionnement des filtres sur une image avec quelques exemples (web + python)
+- créer une site internet expliquant le fonctionnement des filtres sur une image avec quelques exemples (web + python)
 - créer un convertiseur permettant de changer de base de numérotation
 - simulation fonctionnelle d'une file d'attente (traiter différents cas ou exploiter en profomdeur une situation réelle)
 - modéliser une étude sur le monopoly - [monopoly](https://www.youtube.com/watch?v=KHPbaIFGZTE) - un peu dur ...
