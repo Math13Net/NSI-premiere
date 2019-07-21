@@ -1,8 +1,8 @@
 # NSI-premiere
 
-Magic Problem Solver Algorithm ;))
+[Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/https://github.com/Math13Net/NSI-premiere/blob/master/projet)
 
-https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/
+
 
 
 
