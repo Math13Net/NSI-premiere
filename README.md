@@ -3,25 +3,20 @@
 [Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/https://github.com/Math13Net/NSI-premiere/blob/master/projet)
 
 
-### [Programme officiel BO NSI Première](https://github.com/Math13Net/NSI-premiere/blob/master/programme-nsi-premiere.pdf)
+## [Programme officiel BO NSI Première](https://github.com/Math13Net/NSI-premiere/blob/master/programme-nsi-premiere.pdf)
 
-### [Progression NSI premiere 2019-2020](#sommaire)
+## [Progression NSI premiere 2019-2020](#sommaire)
 
-### [Projets pour le NSI premiere](#projet)
+## [Projets pour le NSI premiere](#projet)
 
-### [Algorithmes pour le NSI premiere](#algorithme)
-
-
-
-
-
-
+## [Algorithmes pour le NSI premiere](#algorithme)
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 ## <a name="sommaire"></a> Sommaire Première NSI
 ------------------------------------------------------------------------------------------------
-
-####Chapitre 1 : PROGRAMMATION ET LANGAGES
-
-#####1.1 Programmation en Python 3
+### Chapitre 1 : PROGRAMMATION ET LANGAGES
+##### 1.1 Programmation en Python 3
 Élements de base - Instructions conditionnelles et boucles - Fonctions
 Spécification et tests - Modules et bibliothèques
 
