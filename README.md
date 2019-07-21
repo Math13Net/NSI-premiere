@@ -8,8 +8,13 @@
 ## [Progression NSI premiere 2019-2020](#sommaire)
 
 ## [Projets pour le NSI premiere](#projet)
+ ### * [Projets pour le premier trimestre](#projet1)
+ ### * [Projets pour le deuxieme trimestre](#projet2)
+ ### * [Projets pour le troisieme trimestre](#projet3)
 
 ## [Algorithmes pour le NSI premiere](#algorithme)
+ ### * [Algorithme 1](#algo1)
+ ### * [Algorithme 2](#algo2)
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
@@ -77,21 +82,46 @@ Mini projet trimestre 3
 https://github.com/Math13Net/NSI-premiere/blob/master/projet
 
 
+## <a name="projet"></a> Projets pour le NSI
+
+---------------------------------------------------------------------------------------------------------------------------
+### <a name="demarche"></a> Démarche
+- constituer un groupe de 2 ou 3 ou 4 élèves
+- faire son choix à la fin de la séance 1
+- faire valider par le professeur
+- créer votre projet sur Trello pour gérer le projet (video explicative trello - https://www.youtube.com/watch?v=yQ_cmBfU-Ak)
+(inviter votre professeur - il pourra voir ce que vous faites et vous accompagner dans viotre démarche)
+- pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
+
+
+---------------------------------------------------------------------------------------------------------------------------
+### <a name="projet1"></a> Projet Bloc 1 : Langages et programmation (premier trimeste)
+- développer sous python
+(qq idées : https://projects.raspberrypi.org/en/projects?software%5B%5D=python ou https://culturemath.ens.fr/category/generalites-270)
+- créer un site web (gratuitement) pour une association - un club - une passion ...
+(qq idées : https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript )
+- expliquer simplement 0.1 + 0.2 != 0.3 puis rédiger un texte scientifique associé (ppt ou latex)
+- créer une site internet expliquant le fomctionnement des filtres sur une image avec quelques exemples (web + python)
+- créer un convertiseur permettant de changer de base de numérotation
+- simulation fonctionnelle d'une file d'attente (traiter différents cas ou exploiter en profomdeur une situation réelle)
+- modéliser une étude sur le monopoly - dur (https://www.youtube.com/watch?v=KHPbaIFGZTE)
+
+---------------------------------------------------------------------------------------------------------------------------
+### <a name="projet2"></a> Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
 
 
 
 
-<a name="sommaire"></a>
+---------------------------------------------------------------------------------------------------------------------------
+### Projet <a name="projet3"></a> Bloc 3 : Algorithmiques (troisieme trimestre)
 
 
+## <a name="algorithme"></a> Algorithmes
 
 
+---------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
+### <a name="demarche"></a> Démarche
 
 
 
