@@ -10,6 +10,7 @@
 ## [Projets pour le NSI premiere](#projet)
 
 ## [Algorithmes pour le NSI premiere](#algorithme)
+
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
@@ -74,6 +75,32 @@ Algorithmes de tri - Algorithme des plus proches voisins - Algorithmes gloutons
 
 Mini projet trimestre 3
 https://github.com/Math13Net/NSI-premiere/blob/master/projet
+
+
+
+
+
+
+<a name="sommaire"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
