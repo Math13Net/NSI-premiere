@@ -2,22 +2,34 @@ Projet pour le NSI
 
 ---------------------------------------------------------------------------------------------------------------------------
 Démarche
+- constituer un groupe de 2 ou 3 ou 4 élèves
+- faire son choix à la fin de la séance 1
+- faire valider par le professeur
+- créer votre projet sur Trello pour gérer le projet (video explicative trello - https://www.youtube.com/watch?v=yQ_cmBfU-Ak)
+(inviter votre professeur - il pourra voir ce que vous faites et vous accompagner dans viotre démarche)
+- pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
 
 
+---------------------------------------------------------------------------------------------------------------------------
+Projet Bloc 1 : Langages et programmation (premier trimeste)
+- créer un programme en python
+(qq idées : https://projects.raspberrypi.org/en/projects?software%5B%5D=python )
+- créer un site web (gratuitement) pour une association - un club - une passion ...
+(qq idées : https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript )
+- expliquer simplement 0.1 + 0.2 != 0.3 puis rédiger un texte scientifique associé (ppt ou latex)
+- créer une site internet expliquant le fomctionnement des filtres sur une image avec quelques exemples (web + python)
+- créer un convertiseur permettant de changer de base de numérotation
+- simulation fonctionnelle d'une file d'attente (traiter différents cas ou exploiter en profomdeur une situation réelle)
+- ...
+
+---------------------------------------------------------------------------------------------------------------------------
+Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
 
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-Projet Bloc 1 (premier trimeste)
+Projet Bloc 3 : Algorithmiques (troisieme trimestre)
 
 
----------------------------------------------------------------------------------------------------------------------------
-Projet Bloc 2 (deuxieme trimestre)
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------
-Projet Bloc 3 (troisieme trimestre)
 
