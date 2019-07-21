@@ -46,7 +46,7 @@ ex3 : vente croissant(nbre), climat(beau/mauvais), jour semaine(sem/we)
 
 
 
-(#sommaire) Sommaire Première NSI
+### <a name="sommaire"></a> Sommaire Première NSI
 ------------------------------------------------------------------------------------------------
 
 Chapitre 1 : PROGRAMMATION ET LANGAGES
