@@ -124,59 +124,29 @@ Dictionnaires - Traitement de données en tables
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-### Projet <a name="projet3"></a> Bloc 3 : Algorithmiques (troisieme trimestre)
+### <a name="projet3"></a> Projet Bloc 3 : Algorithmes (troisieme trimeste)
+ 1. Greddy
 
+ 2. Dijkstra
 
-## <a name="algorithme"></a> Algorithmes
+ 3. TAF : programmer le Knapsack Problem (problème du sac à doc / panier du voleur) - dynamic processing (activités tableur)
 
+  * ex 1 : plus grande chaîne de caractère commune (mesure de levensthein : https://fr.wikipedia.org/wiki/Distance_de_Levenshtein)
 
----------------------------------------------------------------------------------------------------------------------------
+  * ex 2 : plus grand nombre de caractères commun
 
-### <a name="demarche"></a> Démarche
+  4. Quicksort and QuickSort improved
 
+   * https://yourbasic.org/golang/quicksort-optimizations/
 
+  5. K-Nearest Neighbor - classification and regression
 
+   * ex1 : taille et couleur des oranges
 
+   * ex2 : goût des utilisateurs Netflix (5 critères par exemple)
 
-------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-### Projets
---------------------------------------------------------------
+   * ex3 : vente croissant(nbre), climat(beau/mauvais), jour semaine(sem/we)
 
 
 
-
-### Algorithms
----------------------------------------------------------------
-
-1/ Greddy
-
-2/ Dijkstra
-
-3/ TAF : programmer le Knapsack Problem (problème du sac à doc / panier du voleur) - dynamic processing (activités tableur)
-
-ex 1 : plus grande chaîne de caractère commune (mesure de levensthein : https://fr.wikipedia.org/wiki/Distance_de_Levenshtein)
-
-ex 2 : plus grand nombre de caractères commun
-
-4/ Quicksort and QuickSort improved
-
-https://yourbasic.org/golang/quicksort-optimizations/
-
-5/ K-Nearest Neighbor - classification and regression
-
-ex1 : taille et couleur des oranges
-
-ex2 : goût des utilisateurs Netflix (5 critères par exemple)
-
-ex3 : vente croissant(nbre), climat(beau/mauvais), jour semaine(sem/we)
 
