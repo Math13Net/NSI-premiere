@@ -5,7 +5,7 @@
 
 ## [Programme officiel BO NSI Première](https://github.com/Math13Net/NSI-premiere/blob/master/programme-nsi-premiere.pdf)
 
-## [Progression 2019-2020](https://github.com/Math13Net/NSI-premiere/blob/master/progression_NSI_premiere)
+## [Progression NSI premiere 2019-2020](https://github.com/Math13Net/NSI-premiere/blob/master/progression_NSI_premiere)
 
 ## Projects
 --------------------------------------------------------------
