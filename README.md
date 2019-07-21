@@ -101,9 +101,9 @@ Dictionnaires - Traitement de données en tables
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet1"></a> Projet Bloc 1 : Langages et programmation (premier trimeste)
 - développer sous python
-(qq idées : [FUN python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) ou [SMILE](https://culturemath.ens.fr/category/generalites-270)
+(qq idées : [FUN python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) ou [SMILE](https://culturemath.ens.fr/category/generalites-270))
 - créer un site web (gratuitement) pour une association - un club - une passion ...
-(qq idées : [FUN web](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript)
+(qq idées : [FUN web](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript))
 - expliquer simplement 0.1 + 0.2 != 0.3 puis rédiger un texte scientifique associé (ppt ou latex)
 - créer une site internet expliquant le fomctionnement des filtres sur une image avec quelques exemples (web + python)
 - créer un convertiseur permettant de changer de base de numérotation
