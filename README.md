@@ -51,8 +51,7 @@ Nombres réels - Textes
 N-uplets - Listes - Tableaux et matrices
 Dictionnaires - Traitement de données en tables
 
-#### Mini projet trimestre 1
-https://github.com/Math13Net/NSI-premiere/blob/master/projet
+#### [Mini projet trimestre 1](#projet1)
 
 
 ------------------------------------------------------------------------------------------------
@@ -69,8 +68,7 @@ https://github.com/Math13Net/NSI-premiere/blob/master/projet
  * Requêtes HTTP - Formulaires dans une page Web
 
 
-#### Mini projet trimestre 2
- * https://github.com/Math13Net/NSI-premiere/blob/master/projet
+#### [Mini projet trimestre 2](#projet2)
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
@@ -84,8 +82,7 @@ https://github.com/Math13Net/NSI-premiere/blob/master/projet
 #### 3.2 Algorithmes 2
  * Algorithmes de tri - Algorithme des plus proches voisins - Algorithmes gloutons
 
-#### Mini projet trimestre 3
- * https://github.com/Math13Net/NSI-premiere/blob/master/projet
+#### [Mini projet trimestre 3](#projet3)
 
 
 
