@@ -3,11 +3,11 @@
 [Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/https://github.com/Math13Net/NSI-premiere/blob/master/projet)
 
 
-## [Programme officiel BO NSI Première](https://github.com/Math13Net/NSI-premiere/blob/master/programme-nsi-premiere.pdf)
+### [Programme officiel BO NSI Première](https://github.com/Math13Net/NSI-premiere/blob/master/programme-nsi-premiere.pdf)
 
-## [Progression NSI premiere 2019-2020](https://github.com/Math13Net/NSI-premiere/blob/master/progression_NSI_premiere)
+### [Progression NSI premiere 2019-2020](https://github.com/Math13Net/NSI-premiere/blob/master/progression_NSI_premiere)
 
-## Projects
+### Projects
 --------------------------------------------------------------
 
 Projet 1 : reprise du programme min max avec expression explicite du min-max sur 3 valeurs (+recursivité)
@@ -18,7 +18,7 @@ Projet 3 : création d'un google home via raspberry pi (micro et enceinte : ques
 
 
 
-## Algorithms
+### Algorithms
 ---------------------------------------------------------------
 
 1/ Greddy
