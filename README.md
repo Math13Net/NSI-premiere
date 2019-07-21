@@ -36,12 +36,8 @@
  * Mon premier site Web
 
 #### 1.3 (Optionnel) Markdown et Latex
-* Read Me pour Github
- * https://www.youtube.com/watch?v=yXY3f9jw7fg
- * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* document scientifique en Latex
- * a trouver
- * a trouver
+* Mardown
+* Latex
 
 #### 1.4 Données - Types simples
 Représentation numérique de l’information - Nombres entiers - Booléeens
@@ -95,7 +91,7 @@ Dictionnaires - Traitement de données en tables
 - constituer un groupe de 2 ou 3 ou 4 élèves
 - faire son choix à la fin de la séance 1
 - faire valider par le professeur
-- créer votre projet sur Trello pour gérer le projet (video explicative trello - https://www.youtube.com/watch?v=yQ_cmBfU-Ak)
+- créer votre projet sur Trello pour gérer le projet
 (inviter votre professeur - il pourra voir ce que vous faites et vous accompagner dans viotre démarche)
 - pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
 
