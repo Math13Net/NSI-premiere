@@ -6,20 +6,24 @@
 ## [Programme officiel BO NSI Première](https://github.com/Math13Net/NSI-premiere/blob/master/programme-nsi-premiere.pdf)
 
 ## [Progression NSI premiere 2019-2020](#sommaire)
+ ### Chapitre 1 : PROGRAMMATION ET LANGAGES
+ ### Chapitre 2 : Machines et réseaux
+ ### Chapitre 3 : Algorithmes
 
 ## [Projets pour le NSI premiere](#projet)
- ### * [Projets pour le premier trimestre](#projet1)
- ### * [Projets pour le deuxieme trimestre](#projet2)
- ### * [Projets pour le troisieme trimestre](#projet3)
+ ### * Projets trimestre 1
+ ### * Projets trimestre 2
+ ### * Projets trimestre 3
 
 ## [Algorithmes pour le NSI premiere](#algorithme)
- ### * [Algorithme 1](#algo1)
- ### * [Algorithme 2](#algo2)
+ ### * Algorithme 1
+ ### * Algorithme 2
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
 ## <a name="sommaire"></a> Progression Première NSI
+------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 ### Chapitre 1 : PROGRAMMATION ET LANGAGES
 #### 1.1 Programmation en Python 3
@@ -52,34 +56,39 @@ https://github.com/Math13Net/NSI-premiere/blob/master/projet
 
 
 ------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
-Chapitre 2 : Machines et réseaux
+### Chapitre 2 : MACHINES ET RESEAUX
 
-2.1 Machines
-Architecture - Systèmes d’exploitation (linux ou raspbian - windows)
-Communication - Entrées et sorties
+#### 2.1 Machines
+ * Architecture - Systèmes d’exploitation (linux ou raspbian - windows)
+ * Communication - Entrées et sorties
 
-2.2 Interactions sur le Web
-Repères - Hypertexte - Interactions avec HTML et JavaScript
-Requêtes HTTP - Formulaires dans une page Web
+#### 2.2 Interactions sur le Web
+ * Repères - Hypertexte - Interactions avec HTML et JavaScript
+ * Requêtes HTTP - Formulaires dans une page Web
 
 
-Mini projet trimestre 2
-https://github.com/Math13Net/NSI-premiere/blob/master/projet
+#### Mini projet trimestre 2
+ * https://github.com/Math13Net/NSI-premiere/blob/master/projet
 
------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
-Chapitre 3 : Algorithmes
+### Chapitre 3 : ALGORITHMES
 
-3.1 Algorithmes 1
-Introduction - Les outils - Validité et coût
-Parcours séquentiel - Recherche dichotomique
+#### 3.1 Algorithmes 1
+ * Introduction - Les outils - Validité et coût
+ * Parcours séquentiel - Recherche dichotomique
 
-3.2 Algorithmes 2
-Algorithmes de tri - Algorithme des plus proches voisins - Algorithmes gloutons
+#### 3.2 Algorithmes 2
+ * Algorithmes de tri - Algorithme des plus proches voisins - Algorithmes gloutons
 
-Mini projet trimestre 3
-https://github.com/Math13Net/NSI-premiere/blob/master/projet
+#### Mini projet trimestre 3
+ * https://github.com/Math13Net/NSI-premiere/blob/master/projet
+
+
+
 
 
 ## <a name="projet"></a> Projets pour le NSI
