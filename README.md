@@ -12,8 +12,8 @@
 ## [Algorithmes pour le NSI premiere](#algorithme)
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------
-## <a name="sommaire"></a> Sommaire Première NSI
+
+## <a name="sommaire"></a> Progression Première NSI
 ------------------------------------------------------------------------------------------------
 ### Chapitre 1 : PROGRAMMATION ET LANGAGES
 #### 1.1 Programmation en Python 3
@@ -21,13 +21,17 @@
   * Spécification et tests - Modules et bibliothèques
 
 #### 1.2 Web et programmatiom
-Le langage HTML - Le langage CSS - Mon premier site Web
+ * Le langage HTML
+ * Le langage CSS
+ * Mon premier site Web
 
 #### 1.3 (Optionnel) Markdown et Latex
-* Read Me pour Github - https://www.youtube.com/watch?v=yXY3f9jw7fg
-  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* document scientifique en Latex - 
-
+* Read Me pour Github
+ * https://www.youtube.com/watch?v=yXY3f9jw7fg
+ * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* document scientifique en Latex
+ * a trouver
+ * a trouver
 
 #### 1.4 Données - Types simples
 Représentation numérique de l’information - Nombres entiers - Booléeens
