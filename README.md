@@ -101,14 +101,14 @@ Dictionnaires - Traitement de données en tables
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet1"></a> Projet Bloc 1 : Langages et programmation (premier trimeste)
 - développer sous python
-(qq idées : [FUN](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) ou [SMILE](https://culturemath.ens.fr/category/generalites-270)
+(qq idées : [FUN python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) ou [SMILE](https://culturemath.ens.fr/category/generalites-270)
 - créer un site web (gratuitement) pour une association - un club - une passion ...
-(qq idées : https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript )
+(qq idées : [FUN web](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript)
 - expliquer simplement 0.1 + 0.2 != 0.3 puis rédiger un texte scientifique associé (ppt ou latex)
 - créer une site internet expliquant le fomctionnement des filtres sur une image avec quelques exemples (web + python)
 - créer un convertiseur permettant de changer de base de numérotation
 - simulation fonctionnelle d'une file d'attente (traiter différents cas ou exploiter en profomdeur une situation réelle)
-- modéliser une étude sur le monopoly - dur (https://www.youtube.com/watch?v=KHPbaIFGZTE)
+- modéliser une étude sur le monopoly - [monopoly](https://www.youtube.com/watch?v=KHPbaIFGZTE) - un peu dur ...
 - reprise du programme min max avec expression explicite du min-max sur 3 valeurs (+recursivité)
 - allumage led (direct, via GPIO, via server web)
 - création d'un google home via raspberry pi (micro et enceinte : question puis réponse)
