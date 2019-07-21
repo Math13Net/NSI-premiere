@@ -16,28 +16,28 @@
 ## <a name="sommaire"></a> Sommaire Première NSI
 ------------------------------------------------------------------------------------------------
 ### Chapitre 1 : PROGRAMMATION ET LANGAGES
-##### 1.1 Programmation en Python 3
-Élements de base - Instructions conditionnelles et boucles - Fonctions
-Spécification et tests - Modules et bibliothèques
+#### 1.1 Programmation en Python 3
+  * Élements de base - Instructions conditionnelles et boucles - Fonctions
+  * Spécification et tests - Modules et bibliothèques
 
-1.2 Web et programmatiom
+#### 1.2 Web et programmatiom
 Le langage HTML - Le langage CSS - Mon premier site Web
 
-1.3 (Optionnel) Markdown et Latex
-- Read Me pour Github - https://www.youtube.com/watch?v=yXY3f9jw7fg
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-- document scientifique en Latex - 
+#### 1.3 (Optionnel) Markdown et Latex
+* Read Me pour Github - https://www.youtube.com/watch?v=yXY3f9jw7fg
+  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* document scientifique en Latex - 
 
 
-1.4 Données - Types simples
+#### 1.4 Données - Types simples
 Représentation numérique de l’information - Nombres entiers - Booléeens
 Nombres réels - Textes
 
-1.5 Donées - Types construits
+#### 1.5 Donées - Types construits
 N-uplets - Listes - Tableaux et matrices
 Dictionnaires - Traitement de données en tables
 
-Mini projet trimestre 1
+#### Mini projet trimestre 1
 https://github.com/Math13Net/NSI-premiere/blob/master/projet
 
 
