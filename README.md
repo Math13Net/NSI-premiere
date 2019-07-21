@@ -111,10 +111,17 @@ Dictionnaires - Traitement de données en tables
 - créer un convertiseur permettant de changer de base de numérotation
 - simulation fonctionnelle d'une file d'attente (traiter différents cas ou exploiter en profomdeur une situation réelle)
 - modéliser une étude sur le monopoly - dur (https://www.youtube.com/watch?v=KHPbaIFGZTE)
+- reprise du programme min max avec expression explicite du min-max sur 3 valeurs (+recursivité)
+- allumage led (direct, via GPIO, via server web)
+- création d'un google home via raspberry pi (micro et enceinte : question puis réponse)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet2"></a> Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
-
+- relier disque dur a ordinateur
+- analyse dune trame pimg
+- creation d un reseau double (avec router) - wieshark
+- cisco packet tracer
+- '''
 
 
 
@@ -146,11 +153,6 @@ Dictionnaires - Traitement de données en tables
 ### Projets
 --------------------------------------------------------------
 
-Projet 1 : reprise du programme min max avec expression explicite du min-max sur 3 valeurs (+recursivité)
-
-Projet 2 : allumage led (direct, via GPIO, via server web)
-
-Projet 3 : création d'un google home via raspberry pi (micro et enceinte : question puis réponse)
 
 
 
