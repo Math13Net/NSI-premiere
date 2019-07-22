@@ -32,13 +32,12 @@
 * mon premier doc sous Latex
 
 #### 1.4 Données
-##### Types simples
- * Représentation numérique de l’information - Nombres entiers - Booléeens
- * Nombres réels - Textes
-
-##### Types construits
- * N-uplets - Listes - Tableaux et matrices
- * Dictionnaires - Traitement de données en tables
+ * Types simples
+  * Représentation numérique de l’information - Nombres entiers - Booléeens
+  * Nombres réels - Textes
+ * Types construits
+  * N-uplets - Listes - Tableaux et matrices
+  * Dictionnaires - Traitement de données en tables
 
 #### [Mini projet trimestre 1](#projet1)
 
