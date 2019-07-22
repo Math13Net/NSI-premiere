@@ -48,14 +48,14 @@
 ### Chapitre 2 : MACHINES ET RESEAUX
 
 #### 2.1 Machines
- * HardWare et Langage Bas niveau
+##### HardWare et Langage Bas niveau
   * Architecture matérielle
   * Circuit logique
   * Langage machine
- * Systèmes d’exploitation et Terminal
+##### Systèmes d’exploitation et Terminal
   * linux / raspian
   * windows
- * VirtualBox sous linux : du disque dur au fichier
+##### VirtualBox sous linux : du disque dur au fichier
 #### 2.2 Communication et Architecture Réseau
  * Modèle OSI et protocole TCP/IP
  * Masque et adresse IP
