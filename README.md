@@ -4,10 +4,10 @@
 
 
 <a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" 
+                                                                           
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-
-<span style="color:red">some **This is Red Bold.** text</span>
+# <span style="color:red">some **This is Red Bold.** text</span>
 
 ## [Programme officiel BO NSI Première](https://github.com/Math13Net/NSI-premiere/blob/master/programme-nsi-premiere.pdf)
 
