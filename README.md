@@ -157,7 +157,11 @@
 
 ### Livres
   * [NSI - Serge Bays](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
-  * [NSI : 30 leçons et 300 exercices corrigés - Balabonski, Conchon, Filliâtre, Nguyen](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
+  * [NSI - Balabonski, Conchon, Filliâtre, Nguyen](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
+  
+### Sites
+ * [Site de David Roche](https://pixees.fr/informatiquelycee/n_site/)
+ * [Math93.com NSI](https://www.math93.com/lycee/nsi-1ere.html)
   
   
   
