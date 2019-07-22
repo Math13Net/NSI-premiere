@@ -27,19 +27,19 @@
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-### Chapitre 1 : PROGRAMMATION ET LANGAGES
-#### 1.1 Programmation en Python 3
+### Chapitre 1 : PROGRAMMATION - LANGAGES - DELIVRABLES
+#### 1.1 Python 3
   * Élements de base - Instructions conditionnelles et boucles - Fonctions
   * Spécification et tests - Modules et bibliothèques
 
-#### 1.2 Web et programmatiom
+#### 1.2 Programmation pour le Web
  * Le langage HTML
  * Le langage CSS
  * Mon premier site Web
 
-#### 1.3 (Optionnel) Markdown et Latex
-* Mardown
-* Latex
+#### 1.3 Gestion de projet 
+* GitHub/ MarkDown - Trello
+* mon premier doc sous Latex
 
 #### 1.4 Données - Types simples
 Représentation numérique de l’information - Nombres entiers - Booléeens
