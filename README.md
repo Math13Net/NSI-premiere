@@ -18,18 +18,18 @@
 ------------------------------------------------------------------------------------------------
 
 ### Chapitre 1 : PROGRAMMATION - LANGAGES - DELIVRABLES
-#### 1.1 Python 3
+#### 1.1 [Python 3](https://repl.it/)
   * Élements de base - Instructions conditionnelles et boucles - Fonctions
   * Spécification et tests - Modules et bibliothèques
 
 #### 1.2 Programmation pour le Web
- * Le langage HTML
- * Le langage CSS
+ * Le langage [HTML](https://repl.it/)
+ * Le langage [CSS](https://repl.it/)
  * Mon premier site Web
 
 #### 1.3 Gestion de projet 
-* GitHub/ MarkDown - Trello
-* mon premier doc sous Latex
+* [GitHub](https://github.com/GitHub/) / MarkDown - Trello
+* mon premier doc sous [Latex](https://v2.overleaf.com/login)
 
 #### 1.4 Données
  ##### Types simples
@@ -62,7 +62,7 @@
  * [Cisco Pasket Tracer](https://www.netacad.com/fr/courses/packet-tracer) : connection de deux réseaux via un router
 
 #### 2.2 Interactions sur le Web
- * Repères - Hypertexte - Interactions avec HTML et JavaScript
+ * Repères - Hypertexte - Interactions avec HTML et [JavaScript](https://repl.it/)
  * Requêtes HTTP - Formulaires dans une page Web
 
 
