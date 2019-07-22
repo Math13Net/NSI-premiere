@@ -7,7 +7,7 @@
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-
+<span style="color:red">some **This is Red Bold.** text</span>
 
 ## [Programme officiel BO NSI Première](https://github.com/Math13Net/NSI-premiere/blob/master/programme-nsi-premiere.pdf)
 
