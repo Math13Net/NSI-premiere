@@ -121,7 +121,7 @@
 - grâce à une machine virtuelle, mettre une installation spécifique, puis faire des tests
 - analyse dune trame ping (CiscoPaquetTracer - WireShark)
 - creation d'un reseau double (avec router) - WireShark
-- Internet of Things Control Center with Node-RED
+- Raspberry Pi+ Node-Red : IoT Control Center with Node-RED
 - projet Raspberry Pi + + Arduino + Node-Red
 - ...
 
