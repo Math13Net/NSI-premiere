@@ -7,18 +7,10 @@
 ## [Programme officiel BO NSI Première](https://github.com/Math13Net/NSI-premiere/blob/master/programme-nsi-premiere.pdf)
 
 ## [Progression NSI premiere 2019-2020](#sommaire)
- * Chapitre 1 : Programme et Langages
- * Chapitre 2 : Machines et Réseaux
- * Chapitre 3 : Algorithmes
 
 ## [Projets pour le NSI premiere](#projet)
- * Projets trimestre 1
- * Projets trimestre 2
- * Projets trimestre 3
 
 ## [Algorithmes pour le NSI premiere](#algorithme)
- * Algorithme 1
- * Algorithme 2
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
