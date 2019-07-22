@@ -117,10 +117,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet2"></a> Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
-- relier disque dur a ordinateur
-- analyse dune trame pimg
-- creation d un reseau double (avec router) - wieshark
-- cisco packet tracer
+- grâce à une machine virtuelle, mettre une installation spécifique, puis faire des tests
+- analyse dune trame ping (CiscoPaquetTracer - WireShark)
+- creation d'un reseau double (avec router) - WireShark
 - '''
 
 
