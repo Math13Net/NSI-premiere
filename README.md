@@ -12,8 +12,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ## [Programme officiel BO NSI Première](https://github.com/Math13Net/NSI-premiere/blob/master/programme-nsi-premiere.pdf)
 
 ## [Progression NSI premiere 2019-2020](#sommaire)
- <span style="color:red">some **This is Red Bold.** text</span>
- * Chapitre 2 : Machines et réseaux
+ * Chapitre 1 : Programme et Langages
+ * Chapitre 2 : Machines et Réseaux
  * Chapitre 3 : Algorithmes
 
 ## [Projets pour le NSI premiere](#projet)
