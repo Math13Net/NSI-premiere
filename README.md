@@ -3,6 +3,12 @@
 [Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
 
 
+<a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://www.youtube.com/watch?v=gpJvvH8JFn4" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+
+
 ## [Programme officiel BO NSI Première](https://github.com/Math13Net/NSI-premiere/blob/master/programme-nsi-premiere.pdf)
 
 ## [Progression NSI premiere 2019-2020](#sommaire)
