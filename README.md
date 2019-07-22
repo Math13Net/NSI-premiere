@@ -92,12 +92,12 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="demarche"></a> Démarche
-- constituer un groupe de 2 ou 3 ou 4 élèves
-- faire son choix à la fin de la séance 1
-- faire valider par le professeur
-- créer votre projet sur Trello pour gérer le projet
-(inviter votre professeur - il pourra voir ce que vous faites et vous accompagner dans viotre démarche)
-- pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
+* constituer un groupe de 2 ou 3 ou 4 élèves
+* faire son choix à la fin de la séance 1
+* faire valider par le professeur
+* créer votre projet sur Trello pour gérer le projet
+(inviter votre professeur - il pourra voir ce que vous faites et vous accompagner dans votre démarche)
+* pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
 
 
 ---------------------------------------------------------------------------------------------------------------------------
