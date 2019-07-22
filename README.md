@@ -28,7 +28,7 @@
  * Mon premier site Web
 
 #### 1.3 Gestion de projet 
-* [GitHub](https://github.com/GitHub/) / MarkDown - Trello
+* [GitHub](https://github.com/GitHub/) / MarkDown - [Trello](https://trello.com/)
 * mon premier doc sous [Latex](https://v2.overleaf.com/login)
 
 #### 1.4 Données
