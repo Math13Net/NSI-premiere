@@ -10,6 +10,8 @@
 
 ## [Projets pour le NSI premiere](#projet)
 
+## [Références](#reference)
+
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
@@ -138,7 +140,7 @@
   4. Quicksort and QuickSort improved
 
    * https://yourbasic.org/golang/quicksort-optimizations/
-
+   
   5. K-Nearest Neighbor - classification and regression
 
    * ex1 : taille et couleur des oranges
@@ -146,7 +148,17 @@
    * ex2 : goût des utilisateurs Netflix (5 critères par exemple)
 
    * ex3 : vente croissant(nbre), climat(beau/mauvais), jour semaine(sem/we)
+   
 
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
+## <a name="reference"></a> Références exploitées
 
-
+### Livres
+  * [NSI - Serge Bays](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
+  * [NSI : 30 leçons et 300 exercices corrigés - Balabonski, Conchon, Filliâtre, Nguyen](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
+  
+  
+  
+  
