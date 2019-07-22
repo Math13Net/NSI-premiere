@@ -53,8 +53,8 @@
   * Circuit logique
   * Langage machine
 ##### Systèmes d’exploitation et Terminal
-  * linux / raspian
-  * windows
+  * Linux / Raspian
+  * Windows
 ##### VirtualBox sous linux : du disque dur au fichier
 #### 2.2 Communication et Architecture Réseau
  * Modèle OSI et protocole TCP/IP
