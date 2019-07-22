@@ -49,9 +49,9 @@
 
 #### 2.1 Machines
 ##### HardWare et Langage Bas niveau
-  * Architecture matérielle
-  * Circuit logique
-  * Langage machine
+  * Architecture matérielle - [VirtualBox sous linux](https://www.virtualbox.org/wiki/Downloads) : du disque dur au fichier
+  * Circuit logique - [Simulateur Labri](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html)
+  * Langage machine - [Simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/)
 ##### Systèmes d’exploitation et Terminal
   * Linux / Raspian
   * Windows
