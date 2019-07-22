@@ -48,8 +48,19 @@
 ### Chapitre 2 : MACHINES ET RESEAUX
 
 #### 2.1 Machines
- * Architecture - Systèmes d’exploitation (linux ou raspbian - windows)
- * Communication - Entrées et sorties
+ * HardWare et Langage Bas niveau
+  * Architecture matérielle
+  * Circuit logique
+  * Langage machine
+ * Systèmes d’exploitation et Terminal
+  * linux / raspian
+  * windows
+ * VirtualBox sous linux : du disque dur au fichier
+#### 2.2 Communication et Architecture Réseau
+ * Modèle OSI et protocole TCP/IP
+ * Masque et adresse IP
+ * Wireshark : analyse d'une trame ping
+ * Cisco Pasket Tracer : connection de deux réseaux via un router
 
 #### 2.2 Interactions sur le Web
  * Repères - Hypertexte - Interactions avec HTML et JavaScript
