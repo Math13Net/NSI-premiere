@@ -121,9 +121,9 @@
 - grâce à une machine virtuelle, mettre une installation spécifique, puis faire des tests
 - analyse dune trame ping (CiscoPaquetTracer - WireShark)
 - creation d'un reseau double (avec router) - WireShark
-- créer un flow complet sous Node-Red
-...
-
+- Internet of Things Control Center with Node-RED
+- projet Raspberry Pi + + Arduino + Node-Red
+- ...
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet3"></a> Projet Bloc 3 : Algorithmes (troisieme trimeste)
@@ -158,6 +158,9 @@
 ### Livres
   * [NSI - Serge Bays](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
   * [NSI - Balabonski, Conchon, Filliâtre, Nguyen](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
+  
+### Vidéos  
+  * [Algorithms in Motion - Beau carnes](https://www.manning.com/livevideo/algorithms-in-motion)
   
 ### Sites
  * [Site de David Roche](https://pixees.fr/informatiquelycee/n_site/)
