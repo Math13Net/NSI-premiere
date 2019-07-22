@@ -66,7 +66,7 @@
 #### 2.2 Interactions sur le Web
  * Repères - Hypertexte - Interactions avec HTML et [JavaScript](https://repl.it/)
  * Requêtes HTTP - Formulaires dans une page Web
- * [Node-Red](https://nodered.org/) - Un exemple simple d'utilisation
+ * [Node-Red](https://nodered.org/) - Mon premier flow
 
 #### [Mini projet trimestre 2](#projet2)
 
@@ -121,8 +121,8 @@
 - grâce à une machine virtuelle, mettre une installation spécifique, puis faire des tests
 - analyse dune trame ping (CiscoPaquetTracer - WireShark)
 - creation d'un reseau double (avec router) - WireShark
-- '''
-
+- créer un flow complet sous Node-Red
+...
 
 
 ---------------------------------------------------------------------------------------------------------------------------
