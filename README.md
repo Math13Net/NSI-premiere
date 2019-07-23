@@ -98,13 +98,13 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="demarche"></a> Démarche projet
-#### constituer un groupe de (3 ou) 4 élèves, choisir un thème projet (dans la liste)
-#### faire valider par le professeur (thème et l'équipe) - due date : fin de première séance
-#### créer votre profil GH et Trello
-* pour chaque équipe projet, votre professeur vous envoie une invitation (GH et Trello) ; vous disposez alors de :
- - un espace de travail collaboratif sur GH, en écriture (pour travailler sur votre projet)
- - un tableau collaboratif sur Trello, en écriture (pour gérer votre projet)
- - de documents complémentaires pour votre projets, sur GH
+#### 1. constituer un groupe de (3 ou) 4 élèves, choisir un thème projet (dans la liste)
+#### 2. faire valider par le professeur (thème et l'équipe) - due date : fin de première séance
+#### 3. créer votre profil GH et Trello
+#### 4. pour chaque équipe projet, votre professeur vous envoie une invitation (GH et Trello) ; vous disposez alors de :
+* un espace de travail collaboratif sur GH, en écriture (pour travailler sur votre projet)
+* un tableau collaboratif sur Trello, en écriture (pour gérer votre projet)
+* de documents complémentaires pour votre projets, sur GH
 * c'est parti ! les delivrables seront remis sur ce répertoire, par équipe 
 * pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
 ---------------------------------------------------------------------------------------------------------------------------
