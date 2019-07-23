@@ -114,8 +114,6 @@
 - manipulation d'images
 - convertisseur de couleurs
 - échantillonnage du son
-- compréhension de listes
-- tranches / slices
 - lecture / écriture dans un fichier
 - nombres flottants
 - ...
@@ -126,6 +124,8 @@
 - modéliser une étude sur le monopoly - [monopoly](https://www.youtube.com/watch?v=KHPbaIFGZTE) - un peu dur ...
 - cryptographie - loi de Benford
 - éruptions volcaniques et prédiction
+- compréhension de listes
+- tranches / slices
 - ...
 #### Web
 - créer un site web pour une association - un club - une passion ...
