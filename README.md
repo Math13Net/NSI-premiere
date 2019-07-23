@@ -105,7 +105,7 @@
 * un espace de travail collaboratif sur GH, en écriture (pour travailler sur votre projet)
 * un tableau collaboratif sur Trello, en écriture (pour gérer votre projet)
 * de documents complémentaires pour votre projets, sur GH
-* c'est parti ! les delivrables seront remis sur ce répertoire, par équipe 
+* les delivrables seront remis sur ce répertoire, par équipe 
 * pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet1"></a> Projet Bloc 1 : Langages et programmation (premier trimeste)
