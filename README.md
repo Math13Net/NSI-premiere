@@ -98,14 +98,15 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="demarche"></a> Démarche
-* constituer un groupe de 2 ou 3 ou 4 élèves
-* faire son choix à la fin de la séance 1
-* faire valider par le professeur (le thème est choisi par les élèves, le professeur évalue la faisabilité)
-* créer votre projet sur Trello pour gérer le projet
-(inviter votre professeur - il pourra voir ce que vous faites et vous accompagner dans votre démarche)
+* constituer un groupe de (3 ou) 4 élèves, choisir un thème projet (dans la dans la liste)
+* faire valider par le professeur (thème et l'équipe) - due date : fin de première séance
+* créer votre profil GH et Trello
+* pour chaque équipe projet, votre professeur vous envoie une invitation (GH et Trello) ; vous disposez alors de :
+ - un espace de travail collaboratif sur GH, en écriture (pour travailler sur votre projet)
+ - un tableau collaboratif sur Trello, en écriture (pour gérer votre projet)
+ - de documents complémentaires pour votre projets, sur GH
+* c'est parti ! les delivrables seront remis sur ce répertoire, par équipe 
 * pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
-
-
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet1"></a> Projet Bloc 1 : Langages et programmation (premier trimeste)
 
