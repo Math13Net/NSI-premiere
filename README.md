@@ -141,15 +141,46 @@ _ ...
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet2"></a> Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
+
+#### Machine
 - grâce à une machine virtuelle, mettre une installation spécifique, puis faire des tests
+- représentation binaire des entiers relatifs
+- notion de test et de branchement conditionnel
+- réalisation des boucles usuelles en assembleur (for, while, do-while)
+- manipulation des tableaux
+- la pile et l’appel de fonctions
+- l’unité arithmétique et logique d’un processeur
+- implémentation des registres dans un processeur
+- captation d’une donnée numérique
+- captation d’une donnée analogique
+- fabrication et test d’un capteur
+- intégration d’un capteur, filtre de Kalman
+- contrôle d’un servo moteur asservi à un capteur donné (exemple : fermeture d’un volet quand la nuit tombe)
+- création d’un dispositif multi-capteurs pour réaliser une fonction donnée (exemple : capteur de détection de son et de lumière, type système d’alarme)
+- création d’un robot mobile autonome
+- arbre de Noel à base de LEDs (clignotement)
+- détecteur d’ouverture de porte
+- système “fuyant” en présence de bruit/lumière
+
+#### Réseau
 - analyse dune trame ping (CiscoPaquetTracer - WireShark)
 - creation d'un reseau double (avec router) - WireShark
+- fiabilisation des communications : code détecteur d’erreurs. Du bit de parité (simple et double) au CRC
+- fiabilisation des communications : du bit alterné au numéro de séquence TCP
+- internet décentralisé et le routage
+- paiement sécurisé sur Internet (HTTPS)
+- encapsulation des protocoles : exemple de HTTP
+- sous-réseaux IP
+- IPv6
+
+#### Web
 - Raspberry Pi+ Node-Red : IoT Control Center with Node-RED
 - projet Raspberry Pi + + Arduino + Node-Red
 - allumage led (direct, via GPIO, via server web, via Node-Red)
 - création d'un google home via raspberry pi (micro et enceinte : question puis réponse)
 - ...
-- Décomposition du code JavaScript côté client
+- décomposition du code JavaScript côté client
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet3"></a> Projet Bloc 3 : Algorithmes (troisieme trimeste)
