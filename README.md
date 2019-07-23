@@ -21,25 +21,25 @@
 
 ### Chapitre 1 : PROGRAMMATION - PROJET - DONNEES
 #### 1.1 [Python 3](https://repl.it/)
-  * Élements de base - Instructions conditionnelles et boucles - Fonctions
-  * Spécification et tests - Modules et bibliothèques
+  * élements de base - Instructions conditionnelles et boucles - Fonctions
+  * spécification et tests - Modules et bibliothèques
 
 #### 1.2 Programmation pour le Web
- * Le langage [HTML](https://repl.it/)
- * Le langage [CSS](https://repl.it/)
- * Mon premier site Web
+ * le langage [HTML](https://repl.it/)
+ * le langage [CSS](https://repl.it/)
+ * mon premier site Web
 
 #### 1.3 Gestion de projet - Délivrables
-* [GitHub](https://github.com/GitHub/) / MarkDown - [Trello](https://trello.com/)
-* mon premier doc sous [Latex](https://v2.overleaf.com/login)
+* [GitHub](https://github.com/GitHub/) / MarkDown / GH ClassRoom - [Trello](https://trello.com/)
+* mon premier doc scientifique sous [Latex](https://v2.overleaf.com/login)
 
 #### 1.4 Représentation des Données
  ##### Types simples
-  * Représentation numérique de l’information - Nombres entiers - Booléeens
-  * Nombres réels - Textes
+  * représentation numérique de l’information - Nombres entiers - Booléeens
+  * nombres réels - Textes
  ##### Types construits
-  * N-uplets - Listes - Tableaux et matrices
-  * Dictionnaires - Traitement de données en tables
+  * n-uplets - Listes - Tableaux et matrices
+  * dictionnaires - Traitement de données en tables
 
 #### [Mini projet trimestre 1](#projet1)
 
@@ -51,9 +51,9 @@
 
 #### 2.1 Machines
 ##### HardWare et Langage Bas niveau
-  * Architecture matérielle - [VirtualBox sous linux](https://www.virtualbox.org/wiki/Downloads) : du disque dur au fichier
-  * Circuit logique - [Simulateur Labri](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html)
-  * Langage machine - [Simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/)
+  * architecture matérielle - [VirtualBox sous linux](https://www.virtualbox.org/wiki/Downloads) : du disque dur au fichier
+  * circuit logique - [simulateur Labri](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html)
+  * langage machine - [simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/)
 ##### Systèmes d’exploitation et Terminal
   * Linux / Raspian
   * Windows
@@ -63,14 +63,14 @@
  * [Mon premier projet sous Raspberry Pi](https://www.youtube.com/watch?v=Ew54Q28Gk_Y)
   
 #### 2.2 Communication et Architecture Réseau
- * Modèle OSI et protocole TCP/IP
- * Masque et adresse IP
+ * modèle OSI et protocole TCP/IP
+ * masque et adresse IP
  * [Wireshark](https://www.wireshark.org/) : analyse d'une trame ping
  * [Cisco Pasket Tracer](https://www.netacad.com/fr/courses/packet-tracer) : connection de deux réseaux via un router
 
 #### 2.2 Interactions sur le Web
- * Repères - Hypertexte - Interactions avec HTML et [JavaScript](https://repl.it/)
- * Requêtes HTTP - Formulaires dans une page Web
+ * repère - hypertexte - interactions avec HTML et [JavaScript](https://repl.it/)
+ * requête HTTP - formulaires dans une page Web
  * [Node-Red](https://nodered.org/) - Mon premier flow
 
 #### [Mini projet trimestre 2](#projet2)
@@ -81,11 +81,11 @@
 ### Chapitre 3 : ALGORITHMES
 
 #### 3.1 Algorithmes 1
- * Introduction - Les outils - Validité et coût
- * Parcours séquentiel - Recherche dichotomique
+ * introduction - outils - validité et coût
+ * parcours séquentiel - recherche dichotomique
 
 #### 3.2 Algorithmes 2
- * Algorithmes de tri - Algorithme des plus proches voisins - Algorithmes gloutons
+ * algorithmes de tri - algorithme des plus proches voisins - algorithmes gloutons
 
 #### [Mini projet trimestre 3](#projet3)
 
