@@ -95,7 +95,7 @@
 ### <a name="demarche"></a> Démarche
 * constituer un groupe de 2 ou 3 ou 4 élèves
 * faire son choix à la fin de la séance 1
-* faire valider par le professeur
+* faire valider par le professeur (le thème est choisi par les élèves, le professeur évalue la faisabilité)
 * créer votre projet sur Trello pour gérer le projet
 (inviter votre professeur - il pourra voir ce que vous faites et vous accompagner dans votre démarche)
 * pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
@@ -119,6 +119,8 @@
 - tranches / Slices
 - interface graphique (simple)
 - modéliser une étude sur le monopoly - [monopoly](https://www.youtube.com/watch?v=KHPbaIFGZTE) - un peu dur ...
+- cryptographie - loi de Benford
+- éruptions volcaniques et prédiction
 #### Web
 - créer un site web pour une association - un club - une passion ...
 - créer une site internet expliquant le fonctionnement des filtres sur une image avec quelques exemples (web + python)
