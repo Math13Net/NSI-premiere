@@ -161,6 +161,7 @@
   
 ### Vidéos  
   * [Algorithms in Motion - Beau carnes](https://www.manning.com/livevideo/algorithms-in-motion)
+  * [An Introduction to Web Development in HTML, CSS, and JavaScript - Camryn Williams, Cassidy Williams](https://www.oreilly.com/library/view/an-introduction-to/9781491923320/)
   
 ### Sites
  * [Site de David Roche](https://pixees.fr/informatiquelycee/n_site/)
