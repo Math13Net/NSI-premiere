@@ -97,7 +97,7 @@
 ## <a name="projet"></a> Projets pour le NSI
 
 ---------------------------------------------------------------------------------------------------------------------------
-### <a name="demarche"></a> Démarche
+### <a name="demarche"></a> Démarche projet
 * constituer un groupe de (3 ou) 4 élèves, choisir un thème projet (dans la dans la liste)
 * faire valider par le professeur (thème et l'équipe) - due date : fin de première séance
 * créer votre profil GH et Trello
