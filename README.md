@@ -97,20 +97,20 @@
 ## <a name="projet"></a> Projets pour le NSI
 
 ---------------------------------------------------------------------------------------------------------------------------
-### <a name="demarche"></a> Démarche projet
-#### 1. constituer un groupe de (3 ou) 4 élèves, choisir un thème projet (dans la liste)
-#### 2. faire valider par le professeur (thème et l'équipe) - due date : fin de première séance
-#### 3. créer votre profil GH et Trello
-#### 4. pour chaque équipe projet, votre professeur vous envoie une invitation (GH et Trello) ; vous disposez alors de :
+### <a name="demarche"></a> 1. Démarche projet
+#### 1.1. constituer un groupe de (3 ou) 4 élèves, choisir un thème projet (dans la liste)
+#### 1.2. faire valider par le professeur (thème et l'équipe) - due date : fin de première séance
+#### 1.3. créer votre profil GH et Trello
+#### 1.4. pour chaque équipe projet, votre professeur vous envoie une invitation (GH et Trello) ; vous disposez alors de :
 * un espace de travail collaboratif sur GH, en écriture (pour travailler sur votre projet)
 * un tableau collaboratif sur Trello, en écriture (pour gérer votre projet)
 * de documents complémentaires pour votre projets, sur GH
 * les delivrables seront remis sur ce répertoire, par équipe 
 * pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur
 ---------------------------------------------------------------------------------------------------------------------------
-### <a name="projet1"></a> Projet Bloc 1 : Langages et programmation (premier trimeste)
+### <a name="projet1"></a> 2. Projet Bloc 1 : Langages et programmation (premier trimeste)
 
-#### Données
+#### 2.1. Données
 - expliquer simplement 0.1 + 0.2 != 0.3 puis rédiger un texte scientifique associé
 - représentation d'un nombre dans différentes bases
 - compression de données
@@ -123,7 +123,7 @@
 - lecture / écriture dans un fichier
 - nombres flottants
 - ...
-#### Programmation
+#### 2.2.Programmation
 - qq idées : [FUN python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) ou [SMILE](https://culturemath.ens.fr/category/generalites-270)
 - simulation fonctionnelle d'une file d'attente (traiter différents cas ou exploiter en profomdeur une situation réelle)
 - interface graphique
@@ -133,7 +133,7 @@
 - compréhension de listes
 - tranches / slices
 - ...
-#### Web
+#### 2.3. Web
 - créer un site web pour une association - un club - une passion ...
 - créer une site internet expliquant le fonctionnement des filtres sur une image (web + python)
 - persistance des données côté client (e.g., cookies)
@@ -146,9 +146,9 @@
 _ ...
 
 ---------------------------------------------------------------------------------------------------------------------------
-### <a name="projet2"></a> Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
+### <a name="projet2"></a> 3. Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
 
-#### Machine
+#### 3.1. Machine
 - grâce à une machine virtuelle, mettre une installation spécifique, puis faire des tests
 - représentation binaire des entiers relatifs
 - notion de test et de branchement conditionnel
@@ -168,7 +168,7 @@ _ ...
 - détecteur d’ouverture de porte
 - système “fuyant” en présence de bruit/lumière
 
-#### Réseau
+#### 3.2.Réseau
 - analyse dune trame ping (CiscoPaquetTracer - WireShark)
 - creation d'un reseau double (avec router) - WireShark
 - fiabilisation des communications : code détecteur d’erreurs. Du bit de parité (simple et double) au CRC
@@ -179,7 +179,7 @@ _ ...
 - sous-réseaux IP
 - IPv6
 
-#### Web
+#### 3.3. Web
 - Raspberry Pi+ Node-Red : IoT Control Center with Node-RED
 - projet Raspberry Pi + + Arduino + Node-Red
 - allumage led (direct, via GPIO, via server web, via Node-Red)
@@ -189,7 +189,7 @@ _ ...
 
 
 ---------------------------------------------------------------------------------------------------------------------------
-### <a name="projet3"></a> Projet Bloc 3 : Algorithmes (troisieme trimeste)
+### <a name="projet3"></a> 4.1. Projet Bloc 3 : Algorithmes (troisieme trimeste)
  1. Greddy
 
  2. Dijkstra
@@ -216,17 +216,17 @@ _ ...
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="reference"></a> Références exploitées
+## <a name="reference"></a> 5. Références exploitées
 
-### Livres
+### 5.1. Livres
   * [NSI - Serge Bays](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
   * [NSI - Balabonski, Conchon, Filliâtre, Nguyen](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
   
-### Vidéos  
+### 5.2. Vidéos  
   * [Algorithms in Motion - Beau carnes](https://www.manning.com/livevideo/algorithms-in-motion)
   * [An Introduction to Web Development in HTML, CSS, and JavaScript - Camryn Williams, Cassidy Williams](https://www.oreilly.com/library/view/an-introduction-to/9781491923320/)
   
-### Sites
+### 5.3. Sites
  * [Site de David Roche](https://pixees.fr/informatiquelycee/n_site/)
  * [Math93.com NSI](https://www.math93.com/lycee/nsi-1ere.html)
   
