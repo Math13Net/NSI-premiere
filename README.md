@@ -106,7 +106,7 @@
 * un tableau collaboratif sur Trello, en écriture (pour gérer votre projet)
 * de documents complémentaires pour votre projets, sur GH
 * les delivrables seront remis sur ce répertoire, par équipe 
-* pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur directement
+* pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet1"></a> Projet Bloc 1 : Langages et programmation (premier trimeste)
 
