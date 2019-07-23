@@ -19,7 +19,7 @@
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-### Chapitre 1 : PROGRAMMATION - LANGAGES - DELIVRABLES
+### Chapitre 1 : PROGRAMMATION - PROJET - DONNEES
 #### 1.1 [Python 3](https://repl.it/)
   * Élements de base - Instructions conditionnelles et boucles - Fonctions
   * Spécification et tests - Modules et bibliothèques
@@ -29,11 +29,11 @@
  * Le langage [CSS](https://repl.it/)
  * Mon premier site Web
 
-#### 1.3 Gestion de projet 
+#### 1.3 Gestion de projet - Délivrables
 * [GitHub](https://github.com/GitHub/) / MarkDown - [Trello](https://trello.com/)
 * mon premier doc sous [Latex](https://v2.overleaf.com/login)
 
-#### 1.4 Données
+#### 1.4 Représentation des Données
  ##### Types simples
   * Représentation numérique de l’information - Nombres entiers - Booléeens
   * Nombres réels - Textes
@@ -103,18 +103,32 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet1"></a> Projet Bloc 1 : Langages et programmation (premier trimeste)
-- développer sous python
-(qq idées : [FUN python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) ou [SMILE](https://culturemath.ens.fr/category/generalites-270))
-- créer un site web (gratuitement) pour une association - un club - une passion ...
-(qq idées : [FUN web](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript))
+
+#### Représentation de l’information
+
 - expliquer simplement 0.1 + 0.2 != 0.3 puis rédiger un texte scientifique associé (ppt ou latex)
-- créer une site internet expliquant le fonctionnement des filtres sur une image avec quelques exemples (web + python)
 - créer un convertiseur permettant de changer de base de numérotation
+- compression de données
+- échantillonnage
+- nombres flottants (e.g, visualisation des erreurs)
+- chaînes de caractères
+#### Programmation
+- qq idées : [FUN python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) ou [SMILE](https://culturemath.ens.fr/category/generalites-270)
 - simulation fonctionnelle d'une file d'attente (traiter différents cas ou exploiter en profomdeur une situation réelle)
+- compréhension de listes
+- tranches / Slices
+- interface graphique (simple)
 - modéliser une étude sur le monopoly - [monopoly](https://www.youtube.com/watch?v=KHPbaIFGZTE) - un peu dur ...
-- reprise du programme min max avec expression explicite du min-max sur 3 valeurs (+recursivité)
-- allumage led (direct, via GPIO, via server web)
-- création d'un google home via raspberry pi (micro et enceinte : question puis réponse)
+#### Web
+- créer un site web pour une association - un club - une passion ...
+- créer une site internet expliquant le fonctionnement des filtres sur une image avec quelques exemples (web + python)
+- persistance des données côté client (e.g., cookies)
+- mécanismes de caches
+- envoie de données au serveur (e.g., formulaires, paramètres)
+- validation des données d’un formulaire
+- adaptation au média (e.g., responsive design)
+- gestion des évènements dans le DOM (e.g., event bubbling and capturing)
+- d'autres idées : qq idées : [FUN web](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet2"></a> Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
@@ -123,7 +137,10 @@
 - creation d'un reseau double (avec router) - WireShark
 - Raspberry Pi+ Node-Red : IoT Control Center with Node-RED
 - projet Raspberry Pi + + Arduino + Node-Red
+- allumage led (direct, via GPIO, via server web, via Node-Red)
+- création d'un google home via raspberry pi (micro et enceinte : question puis réponse)
 - ...
+- Décomposition du code JavaScript côté client
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet3"></a> Projet Bloc 3 : Algorithmes (troisieme trimeste)
