@@ -57,6 +57,11 @@
 ##### Systèmes d’exploitation et Terminal
   * Linux / Raspian
   * Windows
+##### Arduino et Raspberry Pi
+ * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
+ * Mon premier projet sous Arduino
+ * Mon premier projet sous Raspberry Pi
+  
 #### 2.2 Communication et Architecture Réseau
  * Modèle OSI et protocole TCP/IP
  * Masque et adresse IP
