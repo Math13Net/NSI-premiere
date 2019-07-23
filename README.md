@@ -59,8 +59,8 @@
   * Windows
 ##### Arduino et Raspberry Pi
  * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
- * Mon premier projet sous Arduino
- * Mon premier projet sous Raspberry Pi
+ * [Mon premier projet sous Arduino](https://www.youtube.com/playlist?list=PL0YfVdOGWSEQCIEZj_-dFsnClqyxqDmA_)
+ * [Mon premier projet sous Raspberry Pi](https://www.youtube.com/watch?v=Ew54Q28Gk_Y)
   
 #### 2.2 Communication et Architecture Réseau
  * Modèle OSI et protocole TCP/IP
