@@ -104,26 +104,32 @@
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet1"></a> Projet Bloc 1 : Langages et programmation (premier trimeste)
 
-#### Représentation de l’information
-
-- expliquer simplement 0.1 + 0.2 != 0.3 puis rédiger un texte scientifique associé (ppt ou latex)
-- créer un convertiseur permettant de changer de base de numérotation
+#### Données
+- expliquer simplement 0.1 + 0.2 != 0.3 puis rédiger un texte scientifique associé
+- représentation d'un nombre dans différentes bases
 - compression de données
 - échantillonnage
 - nombres flottants (e.g, visualisation des erreurs)
 - chaînes de caractères
+- manipulation d'images
+- convertisseur de couleurs
+- échantillonnage du son
+- compréhension de listes
+- tranches / slices
+- lecture / écriture dans un fichier
+- nombres flottants
+- ...
 #### Programmation
 - qq idées : [FUN python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python) ou [SMILE](https://culturemath.ens.fr/category/generalites-270)
 - simulation fonctionnelle d'une file d'attente (traiter différents cas ou exploiter en profomdeur une situation réelle)
-- compréhension de listes
-- tranches / Slices
-- interface graphique (simple)
+- interface graphique
 - modéliser une étude sur le monopoly - [monopoly](https://www.youtube.com/watch?v=KHPbaIFGZTE) - un peu dur ...
 - cryptographie - loi de Benford
 - éruptions volcaniques et prédiction
+- ...
 #### Web
 - créer un site web pour une association - un club - une passion ...
-- créer une site internet expliquant le fonctionnement des filtres sur une image avec quelques exemples (web + python)
+- créer une site internet expliquant le fonctionnement des filtres sur une image (web + python)
 - persistance des données côté client (e.g., cookies)
 - mécanismes de caches
 - envoie de données au serveur (e.g., formulaires, paramètres)
@@ -131,6 +137,7 @@
 - adaptation au média (e.g., responsive design)
 - gestion des évènements dans le DOM (e.g., event bubbling and capturing)
 - d'autres idées : qq idées : [FUN web](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript)
+_ ...
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet2"></a> Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
