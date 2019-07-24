@@ -214,26 +214,22 @@ _ ...
 
    * ex3 : vente croissant(nbre), climat(beau/mauvais), jour semaine(sem/we)
 
-- le compte est bon
-- le sac à dos
-- la suite de Syracuse
-- exponentiation, calcul de n^c
-- packing
-- codage d’Huffman
-- pile/file
-- algorithme de Kruskal
-- tri par comparaison (synthèse)
-- [le crêpier psychorigide](https://pixees.fr/le-crepier-psycho-rigide-comme-algorithme/)
-- [le baseball multicolore](https://github.com/diu-uf-bordeaux/bloc2/blob/master/InfoDebranchee/baseball.pdf)
-- algorithme de tri Quicksort
-- réseaux de tris
-- [algorithme de recherche d’un motif dans un texte de Knuth-Morris-Pratt](https://fr.wikipedia.org/wiki/Algorithme_de_Knuth-Morris-Pratt)
-- [recherche d’un motif dans un texte avec un tableau des suffixes](https://fr.wikipedia.org/wiki/Tableau_des_suffixes)
-- tri de permutation par renversement de préfixe : transparents 37-47 de ceci
-- tri de permutation par renversement glouton de segments arbitraires : transparents 34-53
-
-
-
+* le compte est bon
+* le sac à dos
+* la suite de Syracuse
+* exponentiation, calcul de n^c
+* packing
+* codage d’Huffman
+* pile/file
+* algorithme de Kruskal
+* tri par comparaison (synthèse)
+* [le crêpier psychorigide](https://pixees.fr/le-crepier-psycho-rigide-comme-algorithme/)
+* [le baseball multicolore](https://github.com/diu-uf-bordeaux/bloc2/blob/master/InfoDebranchee/baseball.pdf)
+* réseaux de tris
+* [algorithme de recherche d’un motif dans un texte de Knuth-Morris-Pratt](https://fr.wikipedia.org/wiki/Algorithme_de_Knuth-Morris-Pratt)
+* [recherche d’un motif dans un texte avec un tableau des suffixes](https://fr.wikipedia.org/wiki/Tableau_des_suffixes)
+* tri de permutation par renversement de préfixe : transparents 37-47 de ceci
+* tri de permutation par renversement glouton de segments arbitraires : transparents 34-53
 
 
 ------------------------------------------------------------------------------------------------
