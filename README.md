@@ -20,9 +20,11 @@
 ------------------------------------------------------------------------------------------------
 
 ### Chapitre 1 : PROGRAMMATION - PROJET - DONNEES
-#### 1.1 [Python 3](https://repl.it/)
-  * élements de base - Instructions conditionnelles et boucles - Fonctions
-  * spécification et tests - Modules et bibliothèques
+#### 1.1 initiation à [Python 3](https://repl.it/)
+ * console - opération - type
+ * if/while/for
+ * fonction - spécification - test
+ * module - bibliothèque
 
 #### 1.2 Programmation pour le Web
  * le langage [HTML](https://repl.it/)
@@ -30,16 +32,18 @@
  * mon premier site Web
 
 #### 1.3 Gestion de projet - Délivrables
-* [GitHub](https://github.com/GitHub/) / MarkDown / GH ClassRoom - [Trello](https://trello.com/)
-* mon premier doc scientifique sous [Latex](https://v2.overleaf.com/login)
+ * [GitHub](https://github.com/GitHub/) / MarkDown / GH ClassRoom - [Trello](https://trello.com/)
+ * mon premier doc scientifique sous [Latex](https://v2.overleaf.com/login)
 
-#### 1.4 Représentation des Données
+#### 1.4 Représentation des Données (sous [Python 3](https://repl.it/))
  ##### Types simples
-  * représentation numérique de l’information - Nombres entiers - Booléeens
-  * nombres réels - Textes
+  * nombres entiers, relatifs en base 2 (représentation machine)
+  * booléeens
+  * nombres réels
+  * textes
  ##### Types construits
-  * n-uplets - Listes - Tableaux et matrices
-  * dictionnaires - Traitement de données en tables
+  * n-uplets - listes - tableaux et matrices
+  * dictionnaires - traitement de données en tables
 
 #### [Mini projet trimestre 1](#projet1)
 
