@@ -212,6 +212,31 @@ _ ...
 
    * ex3 : vente croissant(nbre), climat(beau/mauvais), jour semaine(sem/we)
    
+   Le compte est bon
+   Le sac à dos
+La suite de Syracuse
+Exponentiation, calcul de n^c
+Packing
+Codage d’Huffman
+Pile/File
+Algorithme de Kruskal
+Tri par comparaison (synthèse)
+[Le crêpier psychorigide](https://pixees.fr/le-crepier-psycho-rigide-comme-algorithme/)
+[Le baseball multicolore](https://github.com/diu-uf-bordeaux/bloc2/blob/master/InfoDebranchee/baseball.pdf)
+Algorithme de tri Quicksort
+[Réseaux de tris]()
+[Algorithme de recherche d’un motif dans un texte de Knuth-Morris-Pratt](https://fr.wikipedia.org/wiki/Algorithme_de_Knuth-Morris-Pratt)
+[Recherche d’un motif dans un texte avec un tableau des suffixes](https://fr.wikipedia.org/wiki/Tableau_des_suffixes)
+Tri de permutation par renversement de préfixe : transparents 37-47 de ceci
+Tri de permutation par renversement glouton de segments arbitraires : [transparents 34-53]()
+
+
+   
+   
+   
+   
+   
+   
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
