@@ -61,7 +61,7 @@
  * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
  * [Mon premier projet sous Arduino](https://www.youtube.com/playlist?list=PL0YfVdOGWSEQCIEZj_-dFsnClqyxqDmA_)
  * [Mon premier projet sous Raspberry Pi](https://www.youtube.com/watch?v=Ew54Q28Gk_Y)
-  
+
 #### 2.2 Communication et Architecture Réseau
  * modèle OSI et protocole TCP/IP
  * masque et adresse IP
@@ -105,7 +105,7 @@
 * un espace de travail collaboratif sur GH, en écriture (pour travailler sur votre projet)
 * un tableau collaboratif sur Trello, en écriture (pour gérer votre projet)
 * de documents complémentaires pour votre projets, sur GH
-* les delivrables seront remis sur ce répertoire, par équipe 
+* les delivrables seront remis sur ce répertoire, par équipe
 * pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet1"></a> 2. Projet Bloc 1 : Langages et programmation (premier trimeste)
@@ -203,7 +203,7 @@ _ ...
   4. Quicksort and QuickSort improved
 
    * https://yourbasic.org/golang/quicksort-optimizations/
-   
+
   5. K-Nearest Neighbor - classification and regression
 
    * ex1 : taille et couleur des oranges
@@ -211,7 +211,7 @@ _ ...
    * ex2 : goût des utilisateurs Netflix (5 critères par exemple)
 
    * ex3 : vente croissant(nbre), climat(beau/mauvais), jour semaine(sem/we)
-   
+
 - le compte est bon
 - le sac à dos
 - la suite de Syracuse
@@ -230,9 +230,9 @@ _ ...
 - tri de permutation par renversement de préfixe : transparents 37-47 de ceci
 - tri de permutation par renversement glouton de segments arbitraires : transparents 34-53
 
-   
-   
-   
+
+
+
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
@@ -242,18 +242,17 @@ _ ...
 ### 5.1. Livres
   * [NSI - Serge Bays](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
   * [NSI - Balabonski, Conchon, Filliâtre, Nguyen](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
-  
+
 ### 5.2. Vidéos  
   * [Algorithms in Motion - Beau carnes](https://www.manning.com/livevideo/algorithms-in-motion)
   * [An Introduction to Web Development in HTML, CSS, and JavaScript - Camryn Williams, Cassidy Williams](https://www.oreilly.com/library/view/an-introduction-to/9781491923320/)
-  
+
 ### 5.3. Sites
  * [Site de David Roche](https://pixees.fr/informatiquelycee/n_site/)
  * [Math93.com NSI](https://www.math93.com/lycee/nsi-1ere.html)
  * [Débuter avec Python au lycée](http://python.lycee.free.fr/)
- 
+
 ### 5.4. Délivrables Formation Université de Bordeaux
  * [DIU EIL - Enseigner l'Informatique au Lycée](https://moodle1.u-bordeaux.fr/course/view.php?id=4719)
-  
-  
-  
+
+ test
