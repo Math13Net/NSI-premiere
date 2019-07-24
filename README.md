@@ -200,13 +200,11 @@ _ ...
 
  3. TAF : programmer le Knapsack Problem (problème du sac à doc / panier du voleur) - dynamic processing (activités tableur)
 
-  * ex 1 : plus grande chaîne de caractère commune (mesure de levensthein : https://fr.wikipedia.org/wiki/Distance_de_Levenshtein)
+  * ex 1 : plus grande chaîne de caractère commune ([mesure de levensthein](https://fr.wikipedia.org/wiki/Distance_de_Levenshtein))
 
   * ex 2 : plus grand nombre de caractères commun
 
-  4. Quicksort and QuickSort improved
-
-   * https://yourbasic.org/golang/quicksort-optimizations/
+  4. Quicksort and [QuickSort improved](https://yourbasic.org/golang/quicksort-optimizations/)
 
   5. K-Nearest Neighbor - classification and regression
 
