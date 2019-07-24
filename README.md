@@ -228,7 +228,7 @@ _ ...
 - [algorithme de recherche d’un motif dans un texte de Knuth-Morris-Pratt](https://fr.wikipedia.org/wiki/Algorithme_de_Knuth-Morris-Pratt)
 - [recherche d’un motif dans un texte avec un tableau des suffixes](https://fr.wikipedia.org/wiki/Tableau_des_suffixes)
 - tri de permutation par renversement de préfixe : transparents 37-47 de ceci
-- tri de permutation par renversement glouton de segments arbitraires : [transparents 34-53]()
+- tri de permutation par renversement glouton de segments arbitraires : transparents 34-53
 
    
    
