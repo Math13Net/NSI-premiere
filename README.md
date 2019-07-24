@@ -38,7 +38,7 @@
 #### 1.4 Représentation des Données (sous [Python 3](https://repl.it/))
  ##### Types simples
   * nombres entiers, relatifs en base 2 (représentation machine)
-  * booléeens
+  * booléens
   * nombres réels
   * textes
  ##### Types construits
@@ -108,7 +108,7 @@
 #### 1.4. pour chaque équipe projet, votre professeur vous envoie une invitation (GH et Trello) ; vous disposez alors de :
 * un espace de travail collaboratif sur GH, en écriture (pour travailler sur votre projet)
 * un tableau collaboratif sur Trello, en écriture (pour gérer votre projet)
-* de documents complémentaires pour votre projets, sur GH
+* de documents complémentaires pour votre projet, sur GH
 * les delivrables seront remis sur ce répertoire, par équipe
 * pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur
 ---------------------------------------------------------------------------------------------------------------------------
