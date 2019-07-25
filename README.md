@@ -240,6 +240,7 @@ _ ...
 ### 5.1. Livres
   * [NSI - Serge Bays](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
   * [NSI - Balabonski, Conchon, Filliâtre, Nguyen](https://www.editions-ellipses.fr/spcialit-numrique-sciences-informatiques-premire-nouveaux-programmes-p-13318.html)
+  * [Python](https://www.editions-ellipses.fr/programmation-facile-avec-python-p-10176.html)
 
 ### 5.2. Vidéos  
   * [Algorithms in Motion - Beau carnes](https://www.manning.com/livevideo/algorithms-in-motion)
