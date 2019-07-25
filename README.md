@@ -24,7 +24,7 @@
  * console - opération - type
  * if/while/for
  * fonction - spécification - test
- * module - bibliothèque
+ * module
 
 #### 1.2 Programmation pour le Web
  * le langage [HTML](https://repl.it/)
