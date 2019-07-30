@@ -42,22 +42,25 @@
  * [programmation rapide en css](https://repl.it/)
  * [mémo JavaScript](https://github.com/Math13Net/NSI-premiere/blob/master/css%20resume.pdf)
 
-#### 1.3 Gestion de projet - Délivrables
- * [GitHub](https://github.com/GitHub/) / MarkDown / GH ClassRoom - [Trello](https://trello.com/)
- * mon premier doc scientifique sous [Latex](https://v2.overleaf.com/login)
-
-#### 1.4 Représentation des Données (sous [Python 3](https://repl.it/))
- ##### Types simples
+##### 1.2.4 Latex (optionnel)
+ * [document scientifique sous Latex](https://v2.overleaf.com/login)
+ * [aide mémoire latex](https://fr.wikipedia.org/wiki/Aide:Formules_TeX)
+ 
+#### 1.3 Représentation des Données (sous [Python 3](https://repl.it/))
+ ##### 1.3.1 Types simples
   * nombres entiers, relatifs en base 2 (représentation machine)
   * booléens
   * nombres réels
   * textes
- ##### Types construits
+ ##### 1.3.2. Types construits
   * n-uplets - listes - tableaux et matrices
   * dictionnaires - traitement de données en tables
 
-#### [Mini projet trimestre 1](#projet1)
-
+#### Project Management (tâche transversale)
+ * [démarche projet](#demarche)
+ * [stocker et publier avec GitHub](https://github.com/GitHub/) / MarkDown / GH ClassRoom
+ * [planifier avec Trello](https://trello.com/)
+ * [choisir son projet du chapitre 1](#projet1)
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
@@ -88,7 +91,7 @@
  * requête HTTP - formulaires dans une page Web
  * [Node-Red](https://nodered.org/) - Mon premier flow
 
-#### [Mini projet trimestre 2](#projet2)
+#### [choisir son projet du chapitre 2](#projet2)
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
@@ -102,7 +105,7 @@
 #### 3.2 Algorithmes 2
  * algorithmes de tri - algorithme des plus proches voisins - algorithmes gloutons
 
-#### [Mini projet trimestre 3](#projet3)
+#### [choisir son projet du chapitre 3](#projet3)
 
 
 ------------------------------------------------------------------------------------------------
