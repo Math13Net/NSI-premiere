@@ -38,12 +38,12 @@
  * [mémo css](https://github.com/Math13Net/NSI-premiere/blob/master/css%20resume.pdf)
  
 ##### 1.2.3 JavaScript
- * [présentation rapide du JavaScript](https://github.com/Math13Net/NSI-premiere/blob/master/css%20presentation.pdf)
- * [programmation rapide en css](https://repl.it/)
- * [mémo JavaScript](https://github.com/Math13Net/NSI-premiere/blob/master/css%20resume.pdf)
+ * [présentation rapide du javascript](https://github.com/Math13Net/NSI-premiere/blob/master/css%20presentation.pdf)
+ * [programmation rapide en javascript](https://repl.it/)
+ * [mémo javascript](https://github.com/Math13Net/NSI-premiere/blob/master/css%20resume.pdf)
 
 ##### 1.2.4 Latex (optionnel)
- * [document scientifique sous Latex](https://v2.overleaf.com/login)
+ * [document scientifique sous latex](https://v2.overleaf.com/login)
  * [aide mémoire latex](https://fr.wikipedia.org/wiki/Aide:Formules_TeX)
  
 #### 1.3 Représentation des Données (sous [Python 3](https://repl.it/))
