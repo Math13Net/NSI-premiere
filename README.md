@@ -42,17 +42,17 @@
  * [programmation rapide en javascript](https://repl.it/)
  * [mémo javascript](https://github.com/Math13Net/NSI-premiere/blob/master/javascript%20resume.pdf)
 
-##### 1.2.4 Latex (optionnel)
+#### 1.3 Latex (optionnel)
  * [document scientifique sous latex](https://v2.overleaf.com/login)
  * [aide mémoire latex](https://fr.wikipedia.org/wiki/Aide:Formules_TeX)
  
-#### 1.3 Représentation des Données (sous [Python 3](https://repl.it/))
- ##### 1.3.1 Types simples
+#### 1.4 Représentation des Données (sous [Python 3](https://repl.it/))
+ ##### 1.4.1 Types simples
   * nombres entiers, relatifs en base 2 (représentation machine)
   * booléens
   * nombres réels
   * textes
- ##### 1.3.2. Types construits
+ ##### 1.4.2. Types construits
   * n-uplets - listes - tableaux et matrices
   * dictionnaires - traitement de données en tables
 
