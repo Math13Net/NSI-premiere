@@ -27,8 +27,15 @@
  * module
 
 #### 1.2 Programmation pour le Web
- * le langage [HTML](https://repl.it/)
- * le langage [CSS](https://repl.it/)
+##### 1.2.1 HTLM
+ * présentation 
+ * [programmation en HTML](https://repl.it/)
+ 
+##### 1.2.1 CSS 
+ * présentation css
+ * [programmation CSS](https://repl.it/)
+ 
+ 
  * mon premier site Web
 
 #### 1.3 Gestion de projet - Délivrables
