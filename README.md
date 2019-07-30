@@ -30,10 +30,12 @@
 ##### 1.2.1 HTLM
  * [présentation du html](https://github.com/Math13Net/NSI-premiere/blob/master/html%20presentation.pdf)
  * [programmation en html](https://repl.it/)
+ * [mémo html](https://github.com/Math13Net/NSI-premiere/blob/master/html%20resume.png)
  
 ##### 1.2.1 CSS 
- * présentation css
- * [programmation CSS](https://repl.it/)
+ * [présentation du css](https://github.com/Math13Net/NSI-premiere/blob/master/css%20presentation.pdf)
+ * [programmation en css](https://repl.it/)
+ * [mémo css](https://github.com/Math13Net/NSI-premiere/blob/master/css%20resume.pdf)
  
  
  * mon premier site Web
