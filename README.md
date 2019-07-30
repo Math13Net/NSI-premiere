@@ -32,13 +32,15 @@
  * [programmation en html](https://repl.it/)
  * [mémo html](https://github.com/Math13Net/NSI-premiere/blob/master/html%20resume.png)
  
-##### 1.2.1 CSS 
+##### 1.2.2 CSS
  * [présentation du css](https://github.com/Math13Net/NSI-premiere/blob/master/css%20presentation.pdf)
  * [programmation en css](https://repl.it/)
  * [mémo css](https://github.com/Math13Net/NSI-premiere/blob/master/css%20resume.pdf)
  
- 
- * mon premier site Web
+##### 1.2.3 JavaScript
+ * [présentation rapide du JavaScript](https://github.com/Math13Net/NSI-premiere/blob/master/css%20presentation.pdf)
+ * [programmation rapide en css](https://repl.it/)
+ * [mémo JavaScript](https://github.com/Math13Net/NSI-premiere/blob/master/css%20resume.pdf)
 
 #### 1.3 Gestion de projet - Délivrables
  * [GitHub](https://github.com/GitHub/) / MarkDown / GH ClassRoom - [Trello](https://trello.com/)
