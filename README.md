@@ -28,8 +28,8 @@
 
 #### 1.2 Programmation pour le Web
 ##### 1.2.1 HTLM
- * présentation 
- * [programmation en HTML](https://repl.it/)
+ * [présentation du html](https://github.com/Math13Net/NSI-premiere/blob/master/html%20presentation.pdf)
+ * [programmation en html](https://repl.it/)
  
 ##### 1.2.1 CSS 
  * présentation css
