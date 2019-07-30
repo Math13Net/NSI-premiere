@@ -38,9 +38,9 @@
  * [mémo css](https://github.com/Math13Net/NSI-premiere/blob/master/css%20resume.pdf)
  
 ##### 1.2.3 JavaScript
- * [présentation rapide du javascript](https://github.com/Math13Net/NSI-premiere/blob/master/css%20presentation.pdf)
+ * [présentation rapide du javascript](https://github.com/Math13Net/NSI-premiere/blob/master/javascript%20presentation.pdf)
  * [programmation rapide en javascript](https://repl.it/)
- * [mémo javascript](https://github.com/Math13Net/NSI-premiere/blob/master/css%20resume.pdf)
+ * [mémo javascript](https://github.com/Math13Net/NSI-premiere/blob/master/javascript%20resume.pdf)
 
 ##### 1.2.4 Latex (optionnel)
  * [document scientifique sous latex](https://v2.overleaf.com/login)
