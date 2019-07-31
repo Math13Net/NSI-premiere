@@ -28,18 +28,18 @@
 
 #### 1.2 Programmation pour le Web
 ##### 1.2.1 HTLM
- * [présentation du html](https://github.com/Math13Net/NSI-premiere/blob/master/html%20presentation.pdf)
- * [programmation en html](https://repl.it/)
+ * présentation du html
+ * programmation en html
  * [mémo html](https://github.com/Math13Net/NSI-premiere/blob/master/html%20resume.png)
  
 ##### 1.2.2 CSS
- * [présentation du css](https://github.com/Math13Net/NSI-premiere/blob/master/css%20presentation.pdf)
- * [programmation en css](https://repl.it/)
+ * présentation du css
+ * programmation en css
  * [mémo css](https://github.com/Math13Net/NSI-premiere/blob/master/css%20resume.pdf)
  
 ##### 1.2.3 JavaScript
- * [présentation rapide du javascript](https://github.com/Math13Net/NSI-premiere/blob/master/javascript%20presentation.pdf)
- * [programmation rapide en javascript](https://repl.it/)
+ * présentation rapide du javascript
+ * programmation rapide en javascript
  * [mémo javascript](https://github.com/Math13Net/NSI-premiere/blob/master/javascript%20resume.pdf)
 
 #### 1.3 Latex (optionnel)
