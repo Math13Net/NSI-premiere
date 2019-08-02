@@ -6,7 +6,7 @@
 
 ## [Programme officiel BO NSI Première](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/26/8/spe633_annexe_1063268.pdf)
 
-## [Modalité BAC spé NSI](#bac)
+## [Modalité bac spé NSI](#bac)
 
 ## [Progression NSI premiere 2019-2020](#sommaire)
 
@@ -253,21 +253,26 @@ _ ...
 
 ## <a name="bac"></a> Modalité BAC spé NSI
 
-### Epreuve bac spé NSI poursuivie en Terminale : pas encore sorti
+### Epreuve bac spé NSI poursuivie en Terminale
+* __condition de l'épreuve__ : (pas encore sorti)
+
+* __notation__ : (pas encore sorti)
+
+* __sujet 0__ :  (pas encore sorti)
 
 
 ### Epreuve bac spé NSI non poursuivie en Terminale
-* _condition de l'épreuve_ :
+* __condition de l'épreuve__ :
   * épreuve de 2h, consistant en un questionnaire à choix multiples divisé en 7 parties, une pour chaque thématique du programme
   * chaque partie comporte 6 questions
   * pour chaque question, 4 réponses sont proposées dont une seule est correcte
   * usage de la calculatrice est interdit
- * _notation_ :
+* __notation__ :
    * pour chacune des 42 questions, le candidat gagne 3 points pour la réponse correcte, perd 1 point pour une réponse fausse, et obtient un résultat nul pour absence de réponse ou une réponse multiple
    * sur chacune des sept parties, si le total des points obtenu par le candidat est négatif, son résultat est évalué à 0
    * le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points obtenus ×20/ (3×42)
 
-* _sujet 0_ : [épreuve bac spé NSI non poursuivie en terminale](https://cache.media.eduscol.education.fr/file/Annales_zero_BAC_2021_1e/87/9/S0BAC21-1e-SPE-NSI_1133879.pdf)
+* __sujet 0__ : [épreuve bac spé NSI non poursuivie en terminale](https://cache.media.eduscol.education.fr/file/Annales_zero_BAC_2021_1e/87/9/S0BAC21-1e-SPE-NSI_1133879.pdf)
 
 
 ------------------------------------------------------------------------------------------------
