@@ -6,6 +6,8 @@
 
 ## [Programme officiel BO NSI Première](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/26/8/spe633_annexe_1063268.pdf)
 
+## [Modalité BAC spé NSI](#bac)
+
 ## [Progression NSI premiere 2019-2020](#sommaire)
 
 ## [Projets pour le NSI premiere](#projet)
@@ -244,6 +246,28 @@ _ ...
 * [recherche d’un motif dans un texte avec un tableau des suffixes](https://fr.wikipedia.org/wiki/Tableau_des_suffixes)
 * tri de permutation par renversement de préfixe : transparents 37-47 de ceci
 * tri de permutation par renversement glouton de segments arbitraires : transparents 34-53
+
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+## <a name="bac"></a> Modalité BAC spé NSI
+
+### Epreuve bac spé NSI poursuivie en Terminale
+[Epreuve bac spé NSI poursuivie en Terminale](https://cache.media.eduscol.education.fr/file/Annales_zero_BAC_2021_1e/87/9/S0BAC21-1e-SPE-NSI_1133879.pdf)
+
+### Epreuve bac spé NSI non poursuivie en Terminale
+* condition de l'épreuve :
+  * épreuve de 2h, consistant en un questionnaire à choix multiples divisé en 7 parties, une pour chaque thématique du programme
+  * chaque partie comporte 6 questions
+  * pour chaque question, 4 réponses sont proposées dont une seule est correcte
+  * usage de la calculatrice est interdit
+ * notation
+   * pour chacune des 42 questions, le candidat gagne 3 points pour la réponse correcte, perd 1 point pour une réponse fausse, et obtient un résultat nul pour absence de réponse ou une réponse multiple
+   * sur chacune des sept parties, si le total des points obtenu par le candidat est négatif, son résultat est évalué à 0
+   * le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points obtenus ×20/ (3×42)
+
+* [sujet 0 : NSI non poursuivie en Tle](https://cache.media.eduscol.education.fr/file/Annales_zero_BAC_2021_1e/87/9/S0BAC21-1e-SPE-NSI_1133879.pdf)
 
 
 ------------------------------------------------------------------------------------------------
