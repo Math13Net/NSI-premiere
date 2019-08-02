@@ -253,21 +253,21 @@ _ ...
 
 ## <a name="bac"></a> Modalité BAC spé NSI
 
-### Epreuve bac spé NSI poursuivie en Terminale
-[Epreuve bac spé NSI poursuivie en Terminale](https://cache.media.eduscol.education.fr/file/Annales_zero_BAC_2021_1e/87/9/S0BAC21-1e-SPE-NSI_1133879.pdf)
+### Epreuve bac spé NSI poursuivie en Terminale : pas encore sorti
+
 
 ### Epreuve bac spé NSI non poursuivie en Terminale
-* condition de l'épreuve :
+* _condition de l'épreuve_ :
   * épreuve de 2h, consistant en un questionnaire à choix multiples divisé en 7 parties, une pour chaque thématique du programme
   * chaque partie comporte 6 questions
   * pour chaque question, 4 réponses sont proposées dont une seule est correcte
   * usage de la calculatrice est interdit
- * notation
+ * _notation_ :
    * pour chacune des 42 questions, le candidat gagne 3 points pour la réponse correcte, perd 1 point pour une réponse fausse, et obtient un résultat nul pour absence de réponse ou une réponse multiple
    * sur chacune des sept parties, si le total des points obtenu par le candidat est négatif, son résultat est évalué à 0
    * le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points obtenus ×20/ (3×42)
 
-* [sujet 0 : NSI non poursuivie en Tle](https://cache.media.eduscol.education.fr/file/Annales_zero_BAC_2021_1e/87/9/S0BAC21-1e-SPE-NSI_1133879.pdf)
+* _sujet 0_ : [épreuve bac spé NSI non poursuivie en terminale](https://cache.media.eduscol.education.fr/file/Annales_zero_BAC_2021_1e/87/9/S0BAC21-1e-SPE-NSI_1133879.pdf)
 
 
 ------------------------------------------------------------------------------------------------
