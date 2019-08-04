@@ -14,7 +14,7 @@
 
 ## [Références](#reference)
 
-## ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
+## [Licence] ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
