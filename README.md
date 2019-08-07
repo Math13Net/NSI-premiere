@@ -260,7 +260,7 @@ _ ...
 ## <a name="bac"></a> Modalité bac spé NSI
 
 ### Epreuve bac spé NSI poursuivie en Terminale
-* __condition de l'épreuve__ : (pas encore sorti)
+* __condition de l'épreuve__ : 3h30 écrit et 1h de pratique
 
 * __notation__ : (pas encore sorti)
 
