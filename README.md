@@ -24,13 +24,13 @@
 ------------------------------------------------------------------------------------------------
 
 ### Chapitre 1 : PROGRAMMATION - PROJET - DONNEES
-#### 1.1 initiation à [Python 3](https://repl.it/)
+#### 1.1 initiation à [Python 3] (C)
  * console - opération - type
  * if/while/for
  * fonction - spécification - test
  * module
 
-#### 1.2 Programmation pour le Web
+#### 1.2 Programmation pour le Web (C)
 ##### 1.2.1 HTLM
  * présentation du html
  * programmation en html
@@ -50,15 +50,19 @@
  * [document scientifique sous latex](https://v2.overleaf.com/login)
  * [aide mémoire latex](https://fr.wikipedia.org/wiki/Aide:Formules_TeX)
  
-#### 1.4 Représentation des Données (sous [Python 3](https://repl.it/))
- ##### 1.4.1 Types simples
+#### 1.4 Représentation des Données (sous python)
+ ##### 1.4.1 Types simples (S)
   * nombres entiers, relatifs en base 2 (représentation machine)
   * booléens
   * nombres réels
   * textes
- ##### 1.4.2. Types construits
-  * n-uplets - listes - tableaux et matrices
-  * dictionnaires - traitement de données en tables
+ ##### 1.4.2. Types construits (C)
+  * n-uplets
+  * listes
+  * tableaux et matrices
+  * dictionnaires
+  * traitement
+  * données en tables (P)
 
 #### Project Management (tâche transversale)
  * [démarche projet](#demarche)
