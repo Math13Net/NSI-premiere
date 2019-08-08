@@ -61,8 +61,7 @@
   * listes
   * tableaux et matrices
   * dictionnaires
-  * traitement
-  * données en tables (P)
+  * traitement de données en tables (P)
 
 #### Project Management (tâche transversale)
  * [démarche projet](#demarche)
