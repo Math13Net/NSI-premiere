@@ -93,7 +93,7 @@
  * [Wireshark](https://www.wireshark.org/) : analyse d'une trame ping
  * [Cisco Pasket Tracer](https://www.netacad.com/fr/courses/packet-tracer) : connection de deux réseaux via un router
 
-#### 2.2 Interactions sur le Web
+#### 2.3 Interactions sur le Web
  * repère - hypertexte - interactions avec HTML et [JavaScript](https://repl.it/)
  * requête HTTP - formulaires dans une page Web
  * [Node-Red](https://nodered.org/) - Mon premier flow
