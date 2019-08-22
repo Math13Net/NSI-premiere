@@ -106,11 +106,15 @@
 ### Chapitre 3 : ALGORITHMES
 
 #### 3.1 Algorithmes 1
- * introduction - outils - validité et coût
- * parcours séquentiel - recherche dichotomique
+ * les outils
+ * validité et coût
+ * parcours séquentiel
+ * recherche dichotomique
 
 #### 3.2 Algorithmes 2
- * algorithmes de tri - algorithme des plus proches voisins - algorithmes gloutons
+ * algorithmes de tri
+ * algorithme des plus proches voisins
+ * algorithmes gloutons
 
 #### [choisir son projet du chapitre 3](#projet3)
 
