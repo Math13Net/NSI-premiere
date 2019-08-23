@@ -263,6 +263,8 @@ _ ...
 ## <a name="bac"></a> Modalité bac spé NSI
 
 ### Epreuve bac spé NSI poursuivie en Terminale
+* [Programme NSI Terminale](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/93/3/spe247_annexe_1158933.pdf)
+
 * __condition de l'épreuve__ : 3h30 écrit et 1h de pratique
 
 * __notation__ : (pas encore sorti)
