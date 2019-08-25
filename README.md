@@ -1,4 +1,4 @@
-# NSI-premiere
+# NSI-premiere - Lycée Pré de Cordy - Sarlat - 2019/2020
 
 [Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
 
