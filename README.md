@@ -299,6 +299,7 @@ _ ...
 ### 5.2. Vidéos  
   * [Algorithms in Motion - Beau carnes](https://www.manning.com/livevideo/algorithms-in-motion)
   * [An Introduction to Web Development in HTML, CSS, and JavaScript - Camryn Williams, Cassidy Williams](https://www.oreilly.com/library/view/an-introduction-to/9781491923320/)
+  * [A beginner's guide to linux - Eduonix](https://github.com/PacktPublishing/A-Beginners-Guide-to-Linux)
 
 ### 5.3. Sites
  * [Site de David Roche](https://pixees.fr/informatiquelycee/n_site/)
