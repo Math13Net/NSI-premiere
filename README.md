@@ -27,23 +27,23 @@
 #### 1.1 initiation à [Python 3] (C)
  * console - opération - type
  * if/while/for
- * fonction - spécification - test
- * module
+ * fonction - graphique - test
+ * bibliothèque - module
 
 #### 1.2 Programmation pour le Web (C)
 ##### 1.2.1 HTLM
  * présentation du html
- * programmation en html
+ * programmation en html (les bases dans le détail)
  * [mémo html](https://github.com/Math13Net/NSI-premiere/blob/master/html%20resume.png)
  
 ##### 1.2.2 CSS
  * présentation du css
- * programmation en css
+ * programmation en css (les bases dans le détail)
  * [mémo css](https://github.com/Math13Net/NSI-premiere/blob/master/css%20resume.pdf)
  
 ##### 1.2.3 JavaScript
  * présentation rapide du javascript
- * programmation rapide en javascript
+ * programmation rapide en javascript (restons simple)
  * [mémo javascript](https://github.com/Math13Net/NSI-premiere/blob/master/javascript%20resume.pdf)
 
 #### 1.3 Latex (optionnel)
