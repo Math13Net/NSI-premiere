@@ -4,6 +4,8 @@
 
 <a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" alt="NSI Première" width="120" height="90" border="10" /></a>
 
+## [Présentation de l'option NSI](#bac)
+
 ## [Programme officiel BO NSI Première](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/26/8/spe633_annexe_1063268.pdf)
 
 ## [Modalité bac spé NSI](#bac)
