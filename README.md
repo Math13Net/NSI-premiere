@@ -152,6 +152,14 @@ ou [SMILE](https://culturemath.ens.fr/category/generalites-270)
 #### 2.3. Web
 - vous trouverez quelques idées intéressantes sur : [FUN web](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript)
 
+#### 2.4. Les mini-projets sélectionnés par nos élèves en 2019/2020
+
+#### 3.1. équipe 1 : 
+#### 3.1. équipe 2 : 
+#### 3.1. équipe 3 : 
+#### 3.1. équipe 4 : 
+#### 3.1. équipe 5 : 
+
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet2"></a> 3. Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
 
