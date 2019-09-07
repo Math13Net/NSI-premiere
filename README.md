@@ -141,24 +141,17 @@
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet1"></a> 2. Projet Bloc 1 : Langages et programmation (premier trimeste)
 
-#### 2.1. Données
-- vous trouverez quelques idées intéressantes sur : [FUN python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python)
-ou [SMILE](https://culturemath.ens.fr/category/generalites-270)
+#### 2.1. trouver mon projet - quelques liens intéressants
+* [FUN python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python)
+* [FUN web](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript)
+* [SMILE](https://culturemath.ens.fr/category/generalites-270)
 
-#### 2.2.Programmation
-- vous trouverez quelques idées intéressantes sur : [FUN python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python)
-ou [SMILE](https://culturemath.ens.fr/category/generalites-270)
-
-#### 2.3. Web
-- vous trouverez quelques idées intéressantes sur : [FUN web](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript)
-
-#### 2.4. Les mini-projets sélectionnés par nos élèves en 2019/2020
-
-#### 3.1. équipe 1 : [ici]()
-#### 3.1. équipe 2 : [ici]()
-#### 3.1. équipe 3 : [ici]()
-#### 3.1. équipe 4 : [ici]()
-#### 3.1. équipe 5 : [ici]()
+#### 2.2. les mini-projets sélectionnés en 2019/2020
+* équipe 1 : [ici]()
+* équipe 2 : [ici]()
+* équipe 3 : [ici]()
+* équipe 4 : [ici]()
+* équipe 5 : [ici]()
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet2"></a> 3. Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
