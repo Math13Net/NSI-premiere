@@ -154,11 +154,11 @@ ou [SMILE](https://culturemath.ens.fr/category/generalites-270)
 
 #### 2.4. Les mini-projets sélectionnés par nos élèves en 2019/2020
 
-#### 3.1. équipe 1 : 
-#### 3.1. équipe 2 : 
-#### 3.1. équipe 3 : 
-#### 3.1. équipe 4 : 
-#### 3.1. équipe 5 : 
+#### 3.1. équipe 1 : [ici]()
+#### 3.1. équipe 2 : [ici]()
+#### 3.1. équipe 3 : [ici]()
+#### 3.1. équipe 4 : [ici]()
+#### 3.1. équipe 5 : [ici]()
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet2"></a> 3. Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
