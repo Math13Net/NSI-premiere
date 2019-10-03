@@ -26,13 +26,13 @@
 ------------------------------------------------------------------------------------------------
 
 ### Chapitre 1 : PROGRAMMATION - PROJET - DONNEES
-#### 1.1 initiation à [Python 3] (C)
+#### 1.1 initiation à [Python 3]
  * console - opération - type
  * if/while/for
  * fonction - graphique - test
  * bibliothèque - module
 
-#### 1.2 Programmation pour le Web (C)
+#### 1.2 Programmation pour le Web
 ##### 1.2.1 HTLM
  * présentation du html
  * programmation en html (les bases dans le détail)
@@ -48,22 +48,22 @@
  * programmation rapide en javascript (restons simple)
  * [mémo javascript](https://github.com/Math13Net/NSI-premiere/blob/master/javascript%20resume.pdf)
 
-#### 1.3 Latex (optionnel)
+#### 1.3 Latex (optionnel - non fait cette année)
  * [document scientifique sous latex](https://v2.overleaf.com/login)
  * [aide mémoire latex](https://fr.wikipedia.org/wiki/Aide:Formules_TeX)
  
-#### 1.4 Représentation des Données (sous python)
+#### 1.4 Représentation des Données
  ##### 1.4.1 Types simples (S)
   * nombres entiers, relatifs en base 2 (représentation machine)
   * booléens
   * nombres réels
   * textes
- ##### 1.4.2. Types construits (C)
+ ##### 1.4.2. Types construits
   * n-uplets
   * listes
   * tableaux et matrices
   * dictionnaires
-  * traitement de données en tables (P)
+  * traitement de données en tables (projet repl.it)
 
 #### Project Management (tâche transversale)
  * [démarche projet](#demarche)
