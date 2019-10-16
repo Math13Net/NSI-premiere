@@ -47,6 +47,9 @@
  * présentation rapide du javascript
  * programmation rapide en javascript (restons simple)
  * [mémo javascript](https://github.com/Math13Net/NSI-premiere/blob/master/javascript%20resume.pdf)
+ 
+##### 1.2.4 Mon premier Site Web
+ * [exemple de travail élève](https://SITE-WEB-PROJET-NSI--math13net.repl.co)
 
 #### 1.3 Latex (optionnel - non fait cette année)
  * [document scientifique sous latex](https://v2.overleaf.com/login)
@@ -132,12 +135,11 @@
 #### 1.1. constituer un groupe de (3 ou) 4 élèves, choisir un thème projet (dans la liste)
 #### 1.2. faire valider par le professeur (thème et l'équipe) - due date : fin de première séance
 #### 1.3. créer votre profil GH et Trello
-#### 1.4. pour chaque équipe projet, votre professeur vous envoie une invitation (GH et Trello) ; vous disposez alors de :
-* un espace de travail collaboratif sur GH, en écriture (pour travailler sur votre projet)
+#### 1.4. pour chaque équipe projet, vous disposez alors de :
+* un espace de travail collaboratif, en écriture (pour travailler sur votre projet)
 * un tableau collaboratif sur Trello, en écriture (pour gérer votre projet)
-* de documents complémentaires pour votre projet, sur GH
-* les delivrables seront remis sur ce répertoire, par équipe
-* pour un projet Raspberry en lien avec un chercheur de l'université de Bordeaux - contacter votre professeur
+* de documents complémentaires pour votre projet
+* les délivrables sont remis dans votre répertoire, par équipe
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet1"></a> 2. Projet Bloc 1 : Langages et programmation (premier trimeste)
 
