@@ -4,19 +4,19 @@
 
 <a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" alt="NSI Première" width="120" height="90" border="10" /></a>
 
-## [Présentation de l'option NSI](https://github.com/Math13Net/NSI-premiere/blob/master/Pr%C3%A9sentation%20NSI.pdf)
+## ❤️ [Présentation de l'option NSI](https://github.com/Math13Net/NSI-premiere/blob/master/Pr%C3%A9sentation%20NSI.pdf)
 
-## [Programme officiel BO NSI Première](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/26/8/spe633_annexe_1063268.pdf)
+## 🌈 [Programme officiel BO NSI Première](https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/26/8/spe633_annexe_1063268.pdf)
 
-## [Modalité bac spé NSI](#bac)
+## 🔥 [Modalité bac spé NSI](#bac)
 
-## [Progression NSI premiere 2019-2020](#sommaire)
+## 🚀 [Progression NSI premiere 2019-2020](#sommaire)
 
-## [Projets pour le NSI premiere](#projet)
+## 👷 [Projets pour le NSI premiere](#projet)
 
-## [Références](#reference)
+## 📜 [Références](#reference)
 
-## WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
+## 🔐 WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
