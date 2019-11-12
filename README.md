@@ -144,24 +144,26 @@
 * de documents complémentaires pour votre projet
 * les délivrables sont remis dans votre répertoire, par équipe
 ---------------------------------------------------------------------------------------------------------------------------
-### <a name="projet1"></a> 2. Projet Bloc 1 : Langages et programmation (premier trimeste)
+### <a name="projet1"></a> 2. Ressources pour trouver des projets
 
-#### 2.1. trouver mon projet - quelques liens intéressants
 * [FUN python](https://projects.raspberrypi.org/en/projects?software%5B%5D=python)
 * [FUN web](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript)
 * [SMILE](https://culturemath.ens.fr/category/generalites-270)
+---------------------------------------------------------------------------------------------------------------------------
+### <a name="projet1"></a> 3. Projets réalisés cette année 2019/2020 par les élèves
 
-#### 2.2. les mini-projets sélectionnés en 2019/2020 : travail d'élèves
+#### 3.1. travaux d'élèves en programmation, projet, données
 * [créer un site web - HTML et CSS](https://SITE-WEB-PROJET-NSI--math13net.repl.co)
 * [jeu RPG en python - liste et dictionnaire]()
 * [ici]()
-* [ici]()
-* [ici]()
 
+#### 3.2. travaux d'élèves en Machines et Réseaux
+* []()
+* []()
 
-
-
-
+#### 3.3. travaux d'élèves en Algorithmes
+* []()
+* []()
 
 
 
