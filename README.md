@@ -151,12 +151,19 @@
 * [FUN web](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript)
 * [SMILE](https://culturemath.ens.fr/category/generalites-270)
 
-#### 2.2. les mini-projets sélectionnés en 2019/2020
-* équipe 1 : [ici]()
-* équipe 2 : [ici]()
-* équipe 3 : [ici]()
-* équipe 4 : [ici]()
-* équipe 5 : [ici]()
+#### 2.2. les mini-projets sélectionnés en 2019/2020 : travail d'élèves
+* [créer un site web - HTML et CSS](https://SITE-WEB-PROJET-NSI--math13net.repl.co)
+* [jeu RPG en python - liste et dictionnaire]()
+* [ici]()
+* [ici]()
+* [ici]()
+
+
+
+
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet2"></a> 3. Projet Bloc 2 : Machines et réseaux (deuxieme trimestre)
