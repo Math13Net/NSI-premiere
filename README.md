@@ -67,6 +67,9 @@
   * tableaux et matrices
   * dictionnaires
   * traitement de données en tables (projet repl.it)
+  
+ ##### 1.4.3 Mon premier jeu sous Python : RPG Raspberry Pi
+ * [exemple de travail élève par équipe projet]()
 
 #### Project Management (tâche transversale)
  * [démarche projet](#demarche)
