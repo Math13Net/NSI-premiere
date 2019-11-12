@@ -124,14 +124,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="demarche"></a> 1. Démarche projet
-#### 1.1. constituer un groupe de (3 ou) 4 élèves, choisir un thème projet (dans la liste)
+#### 1.1. constituer un groupe de (3 ou) 4 élèves, choisir un thème projet
 #### 1.2. faire valider par le professeur (thème et l'équipe) - due date : fin de première séance
-#### 1.3. créer votre profil GH et Trello
-#### 1.4. pour chaque équipe projet, vous disposez alors de :
-* un espace de travail collaboratif, en écriture (pour travailler sur votre projet)
-* un tableau collaboratif sur Trello, en écriture (pour gérer votre projet)
-* de documents complémentaires pour votre projet
-* les délivrables sont remis dans votre répertoire, par équipe
+#### 1.3. créer votre profil
+#### 1.4. partager vos ressources et votre travail
 ---------------------------------------------------------------------------------------------------------------------------
 ### <a name="projet1"></a> 2. Ressources pour trouver des projets
 
