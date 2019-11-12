@@ -71,12 +71,6 @@
  ##### 1.4.3 Mon premier jeu sous Python : RPG Raspberry Pi
  * [exemple de travail élève par équipe projet]()
 
-#### Project Management (tâche transversale)
- * [démarche projet](#demarche)
- * [stocker et publier avec GitHub](https://github.com/GitHub/) / MarkDown / GH ClassRoom
- * [planifier avec Trello](https://trello.com/)
- * [choisir son projet du chapitre 1](#projet1)
-
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
@@ -106,8 +100,6 @@
  * requête HTTP - formulaires dans une page Web
  * [Node-Red](https://nodered.org/) - Mon premier flow
 
-#### [choisir son projet du chapitre 2](#projet2)
-
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
@@ -123,9 +115,6 @@
  * algorithmes de tri
  * algorithme des plus proches voisins
  * algorithmes gloutons
-
-#### [choisir son projet du chapitre 3](#projet3)
-
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
