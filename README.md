@@ -56,7 +56,7 @@
  * [aide mémoire latex](https://fr.wikipedia.org/wiki/Aide:Formules_TeX)
  
 #### 1.4 Représentation des Données
- ##### 1.4.1 Types simples (S)
+ ##### 1.4.1 Types simples
   * nombres entiers, relatifs en base 2 (représentation machine)
   * booléens
   * nombres réels
@@ -66,7 +66,7 @@
   * listes
   * tableaux et matrices
   * dictionnaires
-  * traitement de données en tables (projet repl.it)
+  * traitement de données en tables (travail autour des fichiers .csv)
   
  ##### 1.4.3 Mon premier jeu sous Python : RPG Raspberry Pi
  * [exemple de travail élève par équipe projet]()
