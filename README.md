@@ -67,7 +67,7 @@
   * tableaux et matrices
   * dictionnaires
   * traitement de données en tables (travail autour des fichiers .csv)
-  [fichier python]()
+  [fichier python](https://github.com/Math13Net/NSI-premiere/blob/master/traitement-de-donnees-en-table.zip)
   [fiche élève](https://github.com/Math13Net/NSI-premiere/blob/master/Ex%205%20-%20NSI%201%C2%B0%20_%20TDD%20-%20Fiche%20%C3%A9l%C3%A8ve.pdf)
   
  ##### 1.4.3 Mon premier jeu sous Python : RPG Raspberry Pi
