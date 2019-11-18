@@ -67,6 +67,8 @@
   * tableaux et matrices
   * dictionnaires
   * traitement de données en tables (travail autour des fichiers .csv)
+  [fichier python]()
+  [fiche élève]()
   
  ##### 1.4.3 Mon premier jeu sous Python : RPG Raspberry Pi
  * [exemple de travail élève par équipe projet]()
