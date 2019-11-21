@@ -80,7 +80,8 @@
 
 #### 2.1 Machines
 ##### HardWare et Langage Bas niveau
-  * architecture matérielle - [VirtualBox sous linux](https://www.virtualbox.org/wiki/Downloads) : du disque dur au fichier
+  * architecture matérielle - [VirtualBox sous linux](https://www.virtualbox.org/wiki/Downloads) : du disque dur au fichier (non fait cette année)
+  * représentation des textes en machine
   * circuit logique - [simulateur Labri](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html)
   * langage machine - [simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/)
 ##### Systèmes d’exploitation et Terminal
