@@ -79,20 +79,20 @@
 ### Chapitre 2 : MACHINES ET RESEAUX
 
 #### 2.1 Machines
-##### HardWare et Langage Bas niveau
+##### 2.1.1 HardWare et Langage Bas niveau
   * architecture matérielle - [VirtualBox sous linux](https://www.virtualbox.org/wiki/Downloads) : du disque dur au fichier (non fait cette année)
   * représentation des textes en machine
   * circuit logique - [simulateur Labri](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html)
   * langage machine - [simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/)
-##### Systèmes d’exploitation et Terminal
+##### 2.1.2 Systèmes d’exploitation et Terminal
   * Linux / Raspian
   * Windows
-##### Arduino et Raspberry Pi
+##### 2.1.3 Arduino et Raspberry Pi
  * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
  * [Mon premier projet sous Arduino](https://www.youtube.com/playlist?list=PL0YfVdOGWSEQCIEZj_-dFsnClqyxqDmA_)
  * [Mon premier projet sous Raspberry Pi](https://www.youtube.com/watch?v=Ew54Q28Gk_Y)
  
-##### Entracte : créer un serveur web et son site avec mon Raspberry Pi
+##### 2.1.4 Créer un serveur web et son site avec un Raspberry Pi
  * [le projet](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
  * [exemple de travail élève]()
 
