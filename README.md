@@ -91,6 +91,10 @@
  * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
  * [Mon premier projet sous Arduino](https://www.youtube.com/playlist?list=PL0YfVdOGWSEQCIEZj_-dFsnClqyxqDmA_)
  * [Mon premier projet sous Raspberry Pi](https://www.youtube.com/watch?v=Ew54Q28Gk_Y)
+ 
+##### Entracte : créer un serveur web et son site avec mon Raspberry Pi
+ * [le projet](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
+ * [exemple de travail élève]()
 
 #### 2.2 Communication et Architecture Réseau
  * modèle OSI et protocole TCP/IP
