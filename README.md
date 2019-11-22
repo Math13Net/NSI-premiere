@@ -146,7 +146,7 @@
 
 #### 3.1. travaux d'élèves en programmation, projet, données
 * [créer un site web - HTML et CSS](https://SITE-WEB-PROJET-NSI--math13net.repl.co)
-* [jeu RPG en python - liste et dictionnaire]()
+* [jeu RPG en python - liste et dictionnaire](https://repl.it/@Math13Net/RPG-game-eleve)
 * [ici]()
 
 #### 3.2. travaux d'élèves en Machines et Réseaux
