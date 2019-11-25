@@ -72,6 +72,12 @@
   
  ##### 1.4.3 Mon premier jeu sous Python : RPG Raspberry Pi
  * [exemple de travail élève par équipe projet](https://repl.it/@Math13Net/RPG-game-eleve)
+ 
+ ##### 1.4.4. Codage des Textes
+  * ascii
+  * unicode et utf-8
+  * fonctions python associées
+ 
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
