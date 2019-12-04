@@ -1,4 +1,4 @@
-# NSI-premiere - Lycée Pré de Cordy - Sarlat - 2019/2020 (ordre chronologique)
+# NSI-premiere - Lycée Pré de Cordy - Sarlat - 2019/2020
 
 [Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
 
@@ -21,7 +21,7 @@
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-## <a name="sommaire"></a> Progression Première NSI
+## <a name="sommaire"></a> Progression Première NSI (ordre chronologique)
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
