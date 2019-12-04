@@ -82,15 +82,14 @@
 
 ##### 2.1.1 HardWare et Langage Bas niveau
   * architecture matérielle - [VirtualBox sous linux](https://www.virtualbox.org/wiki/Downloads) : du disque dur au fichier (non fait cette année)
-  * représentation des textes en machine (ascii - unicode - utf-8 ...)
-  * activité ludique : [concours Castor Informatique](https://concours.castor-informatique.fr/) 
+  * représentation des textes en machine (ascii - unicode - utf-8 ...) 
   * circuit logique - [portes logiques](https://github.com/Math13Net/NSI-premiere/blob/master/porte%20logique.pdf) - [simulateur Labri](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html) - [circuitverse](https://circuitverse.org/)
   * langage machine - [simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/)
   
 ##### 2.1.2 Entracte : espace détente  
   * activité ludique : [concours Castor Informatique](https://concours.castor-informatique.fr/)
-  * projet Raspberry : module Camera
-  * projet Raspberry : minecraftselfies
+  * projet Raspberry : introduction au module Camera
+  * projet Raspberry : projet selfies avec MineCraft
   
 ##### 2.1.2 Systèmes d’exploitation et Terminal
   * Linux / Raspian
