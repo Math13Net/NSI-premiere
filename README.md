@@ -153,11 +153,16 @@
 ### <a name="projet1"></a> 3. Projets réalisés cette année 2019/2020 par les élèves
 
 #### 3.1. travaux d'élèves en programmation, projet, données
-* [créer un site web - HTML et CSS](https://SITE-WEB-PROJET-NSI--math13net.repl.co)
+
 * [jeu RPG en python - liste et dictionnaire](https://repl.it/@Math13Net/RPG-game-eleve)
-* [ici]()
+* []()
+* []()
+
 
 #### 3.2. travaux d'élèves en Machines et Réseaux
+* [créer un site web - HTML et CSS](https://SITE-WEB-PROJET-NSI--math13net.repl.co)
+* introduction au module caméra de Raspberry Pi
+* projet Selfies avec Raspberry Pi
 * []()
 * []()
 
