@@ -73,22 +73,29 @@
  ##### 1.4.3 Mon premier jeu sous Python : RPG Raspberry Pi
  * [exemple de travail élève par équipe projet](https://repl.it/@Math13Net/RPG-game-eleve)
  
-
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
 ### Chapitre 2 : MACHINES ET RESEAUX
 
 #### 2.1 Machines
+
 ##### 2.1.1 HardWare et Langage Bas niveau
   * architecture matérielle - [VirtualBox sous linux](https://www.virtualbox.org/wiki/Downloads) : du disque dur au fichier (non fait cette année)
   * représentation des textes en machine (ascii - unicode - utf-8 ...)
+  * activité ludique : [concours Castor Informatique](https://concours.castor-informatique.fr/) 
   * circuit logique - [portes logiques](https://github.com/Math13Net/NSI-premiere/blob/master/porte%20logique.pdf) - [simulateur Labri](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html) - [circuitverse](https://circuitverse.org/)
-  * activité ludique : [concours Castor Informatique](https://concours.castor-informatique.fr/)
   * langage machine - [simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/)
+  
+##### 2.1.2 Entracte : espace détente  
+  * activité ludique : [concours Castor Informatique](https://concours.castor-informatique.fr/)
+  * projet Raspberry : module Camera
+  * projet Raspberry : minecraftselfies
+  
 ##### 2.1.2 Systèmes d’exploitation et Terminal
   * Linux / Raspian
   * Windows
+  
 ##### 2.1.3 Arduino et Raspberry Pi
  * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
  * [Mon premier projet sous Arduino](https://www.youtube.com/playlist?list=PL0YfVdOGWSEQCIEZj_-dFsnClqyxqDmA_)
