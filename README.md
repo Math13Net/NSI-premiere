@@ -86,7 +86,7 @@
   * circuit logique - [portes logiques](https://github.com/Math13Net/NSI-premiere/blob/master/porte%20logique.pdf) - [simulateur Labri](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html) - [circuitverse](https://circuitverse.org/)
   * langage machine - [simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/)
   
-##### 2.1.2 Entracte : espace détente  
+##### 2.1.2 Entracte 1 : espace détente  
   * activité ludique : [concours Castor Informatique](https://concours.castor-informatique.fr/)
   * projet Raspberry : introduction au module Camera
   * projet Raspberry : projet selfies avec MineCraft
@@ -115,7 +115,7 @@
  * requête HTTP - formulaires dans une page Web
  * [Node-Red](https://nodered.org/) - Mon premier flow
  
- ##### 2.4 Entracte : espace détente  
+ ##### 2.4 Entracte 2 : espace détente  
   * activité ludique : [concours Algoréa](https://www.algorea.org/#/)
   * [Algoréa : la pub](https://youtu.be/Hi1MKRlGeJs)
 
