@@ -114,6 +114,10 @@
  * repère - hypertexte - interactions avec HTML et [JavaScript](https://repl.it/)
  * requête HTTP - formulaires dans une page Web
  * [Node-Red](https://nodered.org/) - Mon premier flow
+ 
+ ##### 2.4 Entracte : espace détente  
+  * activité ludique : [concours Algoréa](https://www.algorea.org/#/)
+  * [Algoréa : la pub](https://youtu.be/Hi1MKRlGeJs)
 
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
