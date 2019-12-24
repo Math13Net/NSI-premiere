@@ -309,6 +309,7 @@
  * [Débuter avec Python au lycée](http://python.lycee.free.fr/)
  * [Site d'Olivier Schmitt](http://olivierschmitt.fr/)
  * [Préparation Capès Math-Info de Lyon](https://perso.liris.cnrs.fr/nicolas.pronost/UCBL/CapesInfo/#ressources)
+ * [Advent Calendar Code](https://adventofcode.com/)
 
 ### 5.4. Délivrables Formation Université de Bordeaux
  * [DIU EIL - Enseigner l'Informatique au Lycée](https://moodle1.u-bordeaux.fr/course/view.php?id=4719)
