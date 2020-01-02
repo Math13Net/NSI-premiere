@@ -92,8 +92,9 @@
   * projet Raspberry : projet selfies avec MineCraft
   
 ##### 2.1.2 Systèmes d’exploitation et Terminal
-  * Linux / Raspian
-  * Windows
+  * présentation du Raspberry Pi et premières expériences
+  * linux / Raspian sous Raspberry Pi
+  * windows
   
 ##### 2.1.3 Arduino et Raspberry Pi
  * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
@@ -106,7 +107,7 @@
 
 #### 2.2 Communication et Architecture Réseau
  * modèle OSI et protocole TCP/IP
- * masque et adresse IP
+ * masque et adresse IP : TP Raspberry Pi et machines (essais sur un réseau local)
  * [Wireshark](https://www.wireshark.org/) : analyse d'une trame ping
  * [Cisco Pasket Tracer](https://www.netacad.com/fr/courses/packet-tracer) : connection de deux réseaux via un router
 
