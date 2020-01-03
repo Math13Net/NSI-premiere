@@ -84,7 +84,7 @@
   * architecture matérielle - [VirtualBox sous linux](https://www.virtualbox.org/wiki/Downloads) : du disque dur au fichier (non fait cette année)
   * représentation des textes en machine (ascii - unicode - utf-8 ...) 
   * circuit logique - [portes logiques](https://github.com/Math13Net/NSI-premiere/blob/master/porte%20logique.pdf) - [simulateur Labri](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html) - [circuitverse](https://circuitverse.org/)
-  * langage machine - [simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/) (non fait cette année)
+  * langage machine - [simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/) (sera fait plus tard)
   
 ##### 2.1.2 Entracte 1 : espace détente  
   * activité ludique : [concours Castor Informatique](https://concours.castor-informatique.fr/)
