@@ -95,6 +95,7 @@
   * présentation du Raspberry Pi et premières expériences
   * linux / Raspian sous Raspberry Pi
   * windows
+  * [exemple de travail élève]()
   
 ##### 2.1.3 Arduino et Raspberry Pi
  * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
