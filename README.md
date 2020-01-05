@@ -72,6 +72,7 @@
   
  ##### 1.4.3 Mon premier jeu sous Python : RPG Raspberry Pi
  * [exemple de travail élève par équipe projet](https://repl.it/@Math13Net/RPG-game-eleve)
+ * activité ludique : [concours Castor Informatique](https://concours.castor-informatique.fr/)
  
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
@@ -95,7 +96,7 @@
   * présentation du Raspberry Pi et premières expériences
   * linux / Raspian sous Raspberry Pi
   * windows
-  * premiers projets sous Raspberry Pi
+  * premiers projets sous Raspberry Pi ([introduction au module Camera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera), [selfies avec MineCraft](https://projects.raspberrypi.org/en/projects/minecraft-selfies))
   * [exemple de travail élève]()
 
 ##### 2.1.4 Arduino et Raspberry Pi
