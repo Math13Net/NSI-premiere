@@ -28,7 +28,7 @@
 ### <span style="color: #26B260">Chapitre 1 : PROGRAMMATION - PROJET - DONNEES</span>
 #### 1.1 initiation à [Python 3]
  * console - opération - type
- * if/while/for
+ * <span style="color: #26B260">if/while/for</span>
  * fonction - graphique - test
  * bibliothèque - module
 
