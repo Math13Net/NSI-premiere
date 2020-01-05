@@ -25,7 +25,9 @@
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-### <span style='color:green'>Chapitre 1 : PROGRAMMATION - PROJET - DONNEES</span>
+<span style='color:green'>Chapitre 1 : PROGRAMMATION - PROJET - DONNEES</span>
+
+
 #### 1.1 initiation à [Python 3]
  * console - opération - type
  * if/while/for
