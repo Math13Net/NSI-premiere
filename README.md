@@ -96,13 +96,13 @@
   * présentation du Raspberry Pi et premières expériences
   * linux / Raspian sous Raspberry Pi
   * windows
-  * premiers projets sous Raspberry Pi ([introduction au module Camera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera), [selfies avec MineCraft](https://projects.raspberrypi.org/en/projects/minecraft-selfies))
-  * projet OS : [exemple de travail élève]()
+  * projet : [exemple de travail élève]()
 
 ##### 2.1.4 Arduino et Raspberry Pi
  * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
  * [Mon premier projet sous Arduino](https://www.youtube.com/playlist?list=PL0YfVdOGWSEQCIEZj_-dFsnClqyxqDmA_)
  * [Mon premier projet sous Raspberry Pi](https://www.youtube.com/watch?v=Ew54Q28Gk_Y)
+ * activités sous Raspberry Pi ([introduction au module Camera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera), [selfies avec MineCraft](https://projects.raspberrypi.org/en/projects/minecraft-selfies))
 
 #### 2.2 Communication et Architecture Réseau
  * modèle OSI et protocole TCP/IP
