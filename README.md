@@ -97,7 +97,7 @@
   * linux / Raspian sous Raspberry Pi
   * windows
   * premiers projets sous Raspberry Pi ([introduction au module Camera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera), [selfies avec MineCraft](https://projects.raspberrypi.org/en/projects/minecraft-selfies))
-  * [exemple de travail élève]()
+  * projet OS : [exemple de travail élève]()
 
 ##### 2.1.4 Arduino et Raspberry Pi
  * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
