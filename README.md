@@ -87,18 +87,13 @@
   * circuit logique - [portes logiques](https://github.com/Math13Net/NSI-premiere/blob/master/porte%20logique.pdf) - [simulateur Labri](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html) - [circuitverse](https://circuitverse.org/)
   * langage machine - [simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/) (sera fait plus tard)
   
-##### 2.1.2 Entracte 1 : espace détente  
-  * activité ludique : [concours Castor Informatique](https://concours.castor-informatique.fr/)
-  * projet Raspberry : introduction au module Camera
-  * projet Raspberry : projet selfies avec MineCraft
-  
-##### 2.1.3 Systèmes d’exploitation et Terminal
+##### 2.1.2 Systèmes d’exploitation et Terminal
   * présentation du Raspberry Pi et premières expériences
   * linux / Raspian sous Raspberry Pi
   * windows
   * projet : [exemple de travail élève]()
 
-##### 2.1.4 Arduino et Raspberry Pi
+##### 2.1.3 Arduino et Raspberry Pi
  * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
  * [Mon premier projet sous Arduino](https://www.youtube.com/playlist?list=PL0YfVdOGWSEQCIEZj_-dFsnClqyxqDmA_)
  * [Mon premier projet sous Raspberry Pi](https://www.youtube.com/watch?v=Ew54Q28Gk_Y)
@@ -110,12 +105,9 @@
  * [Wireshark](https://www.wireshark.org/) : analyse d'une trame ping
  * [Cisco Pasket Tracer](https://www.netacad.com/fr/courses/packet-tracer) : connection de deux réseaux via un router
 
-
 #### 2.3. Interaction avec l'utilisateur
 
-##### 2.3.1 Communication et Architecture Réseau
-  * via python : le module tkinter
-  * [exemple de travail élève]()
+##### 2.3.1 module tkinter de Python
 
 ##### 2.3.2 Interactions sur le Web
  * repère - hypertexte - interactions avec HTML et [JavaScript](https://repl.it/)
