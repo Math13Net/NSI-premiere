@@ -76,7 +76,7 @@
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
-### Chapitre 2 : MACHINES ET RESEAUX
+### Chapitre 2 : MACHINES - RESEAUX - INTERACTIONS
 
 #### 2.1 Machines
 
@@ -91,20 +91,17 @@
   * projet Raspberry : introduction au module Camera
   * projet Raspberry : projet selfies avec MineCraft
   
-##### 2.1.2 Systèmes d’exploitation et Terminal
+##### 2.1.3 Systèmes d’exploitation et Terminal
   * présentation du Raspberry Pi et premières expériences
   * linux / Raspian sous Raspberry Pi
   * windows
+  * premiers projets sous Raspberry Pi
   * [exemple de travail élève]()
-  
-##### 2.1.3 Arduino et Raspberry Pi
+
+##### 2.1.4 Arduino et Raspberry Pi
  * présentation et [différence](https://www.youtube.com/watch?v=c1R4TH6U9rc)
  * [Mon premier projet sous Arduino](https://www.youtube.com/playlist?list=PL0YfVdOGWSEQCIEZj_-dFsnClqyxqDmA_)
  * [Mon premier projet sous Raspberry Pi](https://www.youtube.com/watch?v=Ew54Q28Gk_Y)
- 
-##### 2.1.4 Créer un serveur web et son site avec un Raspberry Pi
- * [le projet](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
- * [exemple de travail élève]()
 
 #### 2.2 Communication et Architecture Réseau
  * modèle OSI et protocole TCP/IP
@@ -112,11 +109,22 @@
  * [Wireshark](https://www.wireshark.org/) : analyse d'une trame ping
  * [Cisco Pasket Tracer](https://www.netacad.com/fr/courses/packet-tracer) : connection de deux réseaux via un router
 
-#### 2.3 Interactions sur le Web
+
+#### 2.3. Interaction avec l'utilisateur
+
+##### 2.3.1 Communication et Architecture Réseau
+  * via python : le module tkinter
+  * [exemple de travail élève]()
+
+##### 2.3.2 Interactions sur le Web
  * repère - hypertexte - interactions avec HTML et [JavaScript](https://repl.it/)
  * requête HTTP - formulaires dans une page Web
  * [Node-Red](https://nodered.org/) - Mon premier flow
- 
+
+##### 2.1.4 Créer un serveur web et son site avec un Raspberry Pi
+ * [le projet](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
+ * [exemple de travail élève]()
+
  ##### 2.4 Entracte 2 : espace détente  
   * activité ludique : [concours Algoréa](https://www.algorea.org/#/)
   * [Algoréa : la pub](https://youtu.be/Hi1MKRlGeJs)
