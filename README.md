@@ -90,7 +90,7 @@
   
 ##### 2.1.2 Systèmes d’exploitation et Terminal
   * présentation du Raspberry Pi et premières expériences
-  * linux / Raspian sous Raspberry Pi
+  * linux / [Raspian sous Raspberry Pi](https://github.com/Math13Net/NSI-premiere/blob/master/resume_linux.pdf)
   * windows
   * projet : [exemple de travail élève]()
 
