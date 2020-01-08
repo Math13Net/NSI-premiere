@@ -105,6 +105,7 @@
  * masque et adresse IP : TP Raspberry Pi et machines (essais sur un réseau local)
  * [Wireshark](https://www.wireshark.org/) : analyse d'une trame ping
  * [Cisco Pasket Tracer](https://www.netacad.com/fr/courses/packet-tracer) : connection de deux réseaux via un router
+ * gestion des sockets via python - simulation
 
 #### 2.3. Interaction avec l'utilisateur
 
