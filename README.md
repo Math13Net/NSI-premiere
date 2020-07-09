@@ -27,7 +27,7 @@
 
 ### Chapitre 1 : PROGRAMMATION - PROJET - DONNEES
 
-#### 1.1 initiation à [Python 3]
+#### 1.1 initiation à Python 3
  * console - opération - type
  * if/while/for
  * fonction - graphique - test
@@ -52,17 +52,13 @@
 ##### 1.2.4 Mon premier Site Web
  * [exemple de travail élève](https://SITE-WEB-PROJET-NSI--math13net.repl.co)
 
-#### 1.3 Latex (optionnel - non fait cette année)
- * [document scientifique sous latex](https://v2.overleaf.com/login)
- * [aide mémoire latex](https://fr.wikipedia.org/wiki/Aide:Formules_TeX)
- 
-#### 1.4 Représentation des Données
- ##### 1.4.1 Types simples
+#### 1.3 Représentation des Données
+ ##### 1.3.1 Types simples
   * nombres entiers, relatifs en base 2 (représentation machine)
   * booléens
   * nombres réels
   * textes
- ##### 1.4.2. Types construits
+ ##### 1.3.2. Types construits
   * n-uplets
   * listes
   * tableaux et matrices
@@ -71,9 +67,12 @@
   [fichier python](https://github.com/Math13Net/NSI-premiere/blob/master/traitement-de-donnees-en-table.zip)
   [fiche élève](https://github.com/Math13Net/NSI-premiere/blob/master/Ex%205%20-%20NSI%201%C2%B0%20_%20TDD%20-%20Fiche%20%C3%A9l%C3%A8ve.pdf)
   
- ##### 1.4.3 Mon premier jeu sous Python : RPG Raspberry Pi
+ ##### 1.3.3 Mon premier jeu sous Python : RPG Raspberry Pi
  * [exemple de travail élève par équipe projet](https://repl.it/@Math13Net/RPG-game-eleve)
+ 
+ ##### 1.3.3 Mon premier jeu sous Python : RPG Raspberry Pi 
  * activité ludique : [concours Castor Informatique](https://concours.castor-informatique.fr/)
+ * je prépare mon bac : [QCM d'entrainement](http://quandjepasselebac.education.fr/e3c/#BNS%2FBac%20G%C3%A9n%C3%A9ral%2FEnseignements%20de%20sp%C3%A9cialit%C3%A9%2FSp%C3%A9cialit%C3%A9%20num%C3%A9rique%20et%20sciences%20informatiques)
  
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
