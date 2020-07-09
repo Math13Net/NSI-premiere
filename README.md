@@ -82,10 +82,10 @@
 #### 2.1 Machines
 
 ##### 2.1.1 HardWare et Langage Bas niveau
-  * architecture matérielle - [VirtualBox sous linux](https://www.virtualbox.org/wiki/Downloads) : du disque dur au fichier (non fait cette année)
+  * architecture matérielle - [VirtualBox sous linux](https://www.virtualbox.org/wiki/Downloads) : du disque dur au fichier (non fait)
   * représentation des textes en machine (ascii - unicode - utf-8 ...) 
   * circuit logique - [portes logiques](https://github.com/Math13Net/NSI-premiere/blob/master/porte%20logique.pdf) - [simulateur Labri](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html) - [circuitverse](https://circuitverse.org/)
-  * langage machine - [simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/) (sera fait plus tard)
+  * langage machine - [simulateur Y86](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/) (non fait)
   
 ##### 2.1.2 Systèmes d’exploitation et Terminal
   * présentation du Raspberry Pi et premières expériences
