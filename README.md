@@ -10,7 +10,7 @@
 
 ## 🔥 [Modalité bac spé NSI](#bac)
 
-## 🚀 [Progression NSI premiere 2019-2020](#sommaire)
+## 🚀 [Progression NSI premiere 2020-2021](#sommaire)
 
 ## 👷 [Projets pour le NSI premiere](#projet)
 
