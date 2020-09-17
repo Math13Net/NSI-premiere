@@ -34,7 +34,7 @@
  * if/while/for
  * fonction - graphique - test
  * bibliothèque - module
- * activité python : [password generator]()
+ * activité python : [password generator](https://github.com/Math13Net/NSI-premiere/blob/master/Password%20Generator%20_%20Raspberry%20Pi%20Projects.pdf)
 
 #### 1.2 Programmation pour le Web
 ##### 1.2.1 HTLM
