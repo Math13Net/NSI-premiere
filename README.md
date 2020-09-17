@@ -34,6 +34,7 @@
  * if/while/for
  * fonction - graphique - test
  * bibliothèque - module
+ * activité python : [password generator]()
 
 #### 1.2 Programmation pour le Web
 ##### 1.2.1 HTLM
