@@ -194,6 +194,7 @@
  * [Préparation Capès Math-Info de Lyon](https://perso.liris.cnrs.fr/nicolas.pronost/UCBL/CapesInfo/#ressources)
  * [Advent Calendar Code](https://adventofcode.com/)
  * [issaccomputerscience](https://isaaccomputerscience.org/home)
+ * [lumni](https://eduscol.education.fr/cid152985/les-cours-lumni-lycee.html#lien7)
 
 ### 5.4. Délivrables Formation Université de Bordeaux
  * [DIU EIL - Enseigner l'Informatique au Lycée](https://moodle1.u-bordeaux.fr/course/view.php?id=4719)
