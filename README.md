@@ -66,7 +66,7 @@
   * listes
   * tableaux et matrices
   * dictionnaires
-  * traitement de données en tables
+  * [traitement de données en tables](https://github.com/Math13Net/NSI-premiere/blob/master/traitement-de-donnees-en-table.zip)
   
  ##### 1.3.3 Mon premier jeu sous Python : RPG Raspberry Pi
  * [exemple de travail élève par équipe projet](https://repl.it/@Math13Net/RPG-game-eleve)
